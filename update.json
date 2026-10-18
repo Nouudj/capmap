@@ -1,7 +1,7 @@
 {
- "version": "0.6.0",
- "notes": "Neu in 0.6: Keyframes, Masken direkt in der Vorschau, Farbrad, Stimme verändern, Beat-Erkennung, Split-Screen und Bild-in-Bild, Projekt-Ordner, Hochladen zu YouTube/TikTok/Instagram und automatische Updates.",
- "file": "updates/CapMap-Update-0.6.0.exe",
- "sha256": "6b273744d3a967f3f44a6ba5cb3fc7feb78764a219a5546f068730949ab554f6",
- "size": 12307007
+ "version": "0.7.0",
+ "notes": "Neu in 0.7: Auto-Reframe (Querformat wird 9:16 und folgt der Person), Vorlagen mit Platzhaltern (Streamer-Clip, Podcast-Short, Reaction, Highlights, YouTube-Video), Stapel-Export (an Markern, gleich lange Teile, jeder Clip, mehrere Projekte) und saubere Vorschaubilder bei langen Clips.",
+ "file": "updates/CapMap-Update-0.7.0.exe",
+ "sha256": "e7ad9df2ddefa849a28cccf18d4f09033f386a9c29c80c7ed79d93cdc1336f19",
+ "size": 12315491
 }
