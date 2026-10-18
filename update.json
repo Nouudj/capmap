@@ -1,7 +1,7 @@
 {
- "version": "0.7.1",
- "notes": "CapMap 0.71: Neuer Export Bild für Bild – jedes Bild wird exakt berechnet, keine Miniruckler, keine hängenden Bilder, kein schwarzer Anfang. Der Ton wird vorher sauber gemischt, die Datei geht direkt auf die Festplatte (auch lange 4K-Videos). Im Export-Fenster unter Methode lässt sich auch der alte Echtzeit-Export wählen.",
- "file": "updates/CapMap-Update-0.7.1.exe",
- "sha256": "4e60a3cb8ee56c44b281bae65a88b8de00fe3599841cba3a11790515474b6a3d",
- "size": 12384984
+ "version": "0.7.2",
+ "notes": "CapMap 0.72: Im Fenstertitel steht jetzt nur noch „CapMap“ statt der alten Versionsnummer 0.3.",
+ "file": "updates/CapMap-Update-0.7.2.exe",
+ "sha256": "30646d95983931cbba9fb951f3f37637e3a19a0329d6f07d1a352e70847ad7c5",
+ "size": 12385866
 }
