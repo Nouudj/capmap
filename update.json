@@ -1,7 +1,7 @@
 {
- "version": "0.7.8",
- "notes": "Soundeffekte: Ganze Ordner importieren (Audio › Soundeffekte › Deine Soundeffekte › Ordner importieren). Unterordner werden zu eigenen Ordnern in der Seitenleiste, doppelte Sounds werden übersprungen, Ordner lassen sich wieder entfernen.",
- "file": "updates/CapMap-Update-0.7.8.exe",
- "sha256": "a4ecdbd5acc0d4c87be46e6d56d0c8876d29b016dbf055788ddae1237fd684ee",
- "size": 12401370
+ "version": "0.7.9",
+ "notes": "Die Kategorie-Spalte links in Audio, Effekte, Übergänge usw. lässt sich jetzt am rechten Rand breiter und schmaler ziehen (Doppelklick setzt zurück).",
+ "file": "updates/CapMap-Update-0.7.9.exe",
+ "sha256": "497a45527ac562a306ba0cfcdead9f354812b0ba6555a27667edbf88a6ae8676",
+ "size": 12401624
 }
