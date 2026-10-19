@@ -1,7 +1,7 @@
 {
- "version": "0.7.2",
- "notes": "CapMap 0.72: Im Fenstertitel steht jetzt nur noch „CapMap“ statt der alten Versionsnummer 0.3.",
- "file": "updates/CapMap-Update-0.7.2.exe",
- "sha256": "30646d95983931cbba9fb951f3f37637e3a19a0329d6f07d1a352e70847ad7c5",
- "size": 12385866
+ "version": "0.7.3",
+ "notes": "CapMap 0.73: Untertitel kommen jetzt auf den Punkt – echte Zeiten für jedes Wort statt geschätzter, Feinkorrektur am Ton, bessere Erkennung durch mehr Zusammenhang und sinnvollere Zeilenumbrüche.",
+ "file": "updates/CapMap-Update-0.7.3.exe",
+ "sha256": "f6352ee07a28e26ddd31ee3c241f063d1bb38e9ba1cfe247d7ae84284fd72b05",
+ "size": 12386069
 }
