@@ -1,7 +1,7 @@
 {
- "version": "0.7.3",
- "notes": "CapMap 0.73: Untertitel kommen jetzt auf den Punkt – echte Zeiten für jedes Wort statt geschätzter, Feinkorrektur am Ton, bessere Erkennung durch mehr Zusammenhang und sinnvollere Zeilenumbrüche.",
- "file": "updates/CapMap-Update-0.7.3.exe",
- "sha256": "f6352ee07a28e26ddd31ee3c241f063d1bb38e9ba1cfe247d7ae84284fd72b05",
- "size": 12386069
+ "version": "0.7.4",
+ "notes": "CapMap 0.74: Flüssige Timeline – Clips gleiten an ihren neuen Platz statt zu springen (beim Ziehen, Löschen, Rückgängig, Teilen, Layouts). An- und ausschaltbar unter Menü › Layout › Flüssige Timeline. Außerdem zeichnet die Timeline schneller.",
+ "file": "updates/CapMap-Update-0.7.4.exe",
+ "sha256": "bcd0a83ee39f8f98d35ba676df7d60b60312042fb7c26500cce6fbaca3a8769c",
+ "size": 12387868
 }
