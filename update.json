@@ -1,13 +1,13 @@
 {
- "version": "0.8.1",
- "notes": "Automatische Updates jetzt auch auf dem Mac (einmal die neue Mac-App installieren, danach kommen Updates von selbst). Dazu kleine Mac-Anpassungen: Menü mit Cmd+C/V/Q, Claude Code und Claude-App werden auf dem Mac gefunden.",
- "file": "updates/CapMap-Update-0.8.1.exe",
- "sha256": "4662ac32f00ce2030671a97090efb550174f64739ff30982e3e35032f600bd91",
- "size": 12403579,
+ "version": "0.8.2",
+ "notes": "Behoben: Claude konnte CapMap manchmal nicht erreichen („CapMap ließ sich nicht starten“), obwohl CapMap offen war. Ein zweiter Start weckt jetzt nur noch das offene CapMap.",
+ "file": "updates/CapMap-Update-0.8.2.exe",
+ "sha256": "7dcfc0de4b412689c6a35931bcd5bcfe6502fa74375443f402188c96b49905b9",
+ "size": 12404236,
  "mac": {
-  "file": "updates/CapMap-Mac-Update-0.8.1.zip",
-  "sha256": "7dcabb93347701e2778f0f16cc760092fc69329d7fd11416c799bb71458ba6eb",
-  "size": 15370397,
+  "file": "updates/CapMap-Mac-Update-0.8.2.zip",
+  "sha256": "76e4668feb8dfa11477b91eb9cdf56571fba3e18344c631b3808b5ab182d8b21",
+  "size": 15370548,
   "minApp": "0.8.1"
  }
 }
