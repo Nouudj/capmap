@@ -1,13 +1,13 @@
 {
- "version": "0.8.2",
- "notes": "Behoben: Claude konnte CapMap manchmal nicht erreichen („CapMap ließ sich nicht starten“), obwohl CapMap offen war. Ein zweiter Start weckt jetzt nur noch das offene CapMap.",
- "file": "updates/CapMap-Update-0.8.2.exe",
- "sha256": "7dcfc0de4b412689c6a35931bcd5bcfe6502fa74375443f402188c96b49905b9",
- "size": 12404236,
+ "version": "0.8.3",
+ "notes": "ClipMap: Shorts werden nicht mehr doppelt erstellt (fehlendes Video, doppelte Untertitel behoben). Neu im ⋯-Menü eines Clips: „Short neu erstellen“.",
+ "file": "updates/CapMap-Update-0.8.3.exe",
+ "sha256": "9e5a97dfb01024fa7c3e770b846e67f623de402fb4438109f13f65227d708342",
+ "size": 12404522,
  "mac": {
-  "file": "updates/CapMap-Mac-Update-0.8.2.zip",
-  "sha256": "76e4668feb8dfa11477b91eb9cdf56571fba3e18344c631b3808b5ab182d8b21",
-  "size": 15370548,
+  "file": "updates/CapMap-Mac-Update-0.8.3.zip",
+  "sha256": "4df9ed3784063101fdeda1a6594e94ce523431b992b02ed8fbb15f4071cd0000",
+  "size": 15370976,
   "minApp": "0.8.1"
  }
 }
