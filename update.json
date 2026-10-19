@@ -1,7 +1,13 @@
 {
- "version": "0.8.0",
- "notes": "Übergänge wie in CapCut: Übergänge erscheinen als Kasten über dem Schnitt, lassen sich einzeln auswählen und am Rand in der Länge ziehen. Rechts gibt es eigene Einstellungen: Dauer, Verlauf (Sanft, Gleichmäßig, Langsam starten/enden), Übergang wechseln, Entfernen und Auf alle anwenden.",
- "file": "updates/CapMap-Update-0.8.0.exe",
- "sha256": "4e14849d1f070fa885c9ae88e279837e61e6c096352829a5108ebaf882aa69e0",
- "size": 12402696
+ "version": "0.8.1",
+ "notes": "Automatische Updates jetzt auch auf dem Mac (einmal die neue Mac-App installieren, danach kommen Updates von selbst). Dazu kleine Mac-Anpassungen: Menü mit Cmd+C/V/Q, Claude Code und Claude-App werden auf dem Mac gefunden.",
+ "file": "updates/CapMap-Update-0.8.1.exe",
+ "sha256": "4662ac32f00ce2030671a97090efb550174f64739ff30982e3e35032f600bd91",
+ "size": 12403579,
+ "mac": {
+  "file": "updates/CapMap-Mac-Update-0.8.1.zip",
+  "sha256": "7dcabb93347701e2778f0f16cc760092fc69329d7fd11416c799bb71458ba6eb",
+  "size": 15370397,
+  "minApp": "0.8.1"
+ }
 }
