@@ -1,7 +1,7 @@
 {
- "version": "0.7.6",
- "notes": "ClipMap im neuen Look: Magic Clips mit Upload-Fenster, eigene ClipMap-Projekte mit Fortschritt, Projektseite mit Zeitleiste über das ganze Video, hochkant-Vorschauen mit Score, Titel und Hashtags, Shorts per Klick erstellen und direkt zurück zu ClipMap.",
- "file": "updates/CapMap-Update-0.7.6.exe",
- "sha256": "34df771448ab7613525af831ee5cfe33a25aab261fa34ced57c72c98c61b403c",
- "size": 12397946
+ "version": "0.7.7",
+ "notes": "ClipMap: Mehrfachauswahl (Haken, Strg/Shift-Klick, Rahmen ziehen, Strg+A) und Papierkorb für ClipMap-Projekte mit Wiederherstellen und 30 Tagen Aufbewahrung. Clips im Projekt lassen sich ebenfalls auswählen, gemeinsam als Shorts erstellen, kopieren oder entfernen.",
+ "file": "updates/CapMap-Update-0.7.7.exe",
+ "sha256": "ef7029c95ce5bf791686c895f99e3186bd033f8c596f354901aab27460b4090b",
+ "size": 12399828
 }
