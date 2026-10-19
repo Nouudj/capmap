@@ -1,7 +1,7 @@
 {
- "version": "0.7.9",
- "notes": "Die Kategorie-Spalte links in Audio, Effekte, Übergänge usw. lässt sich jetzt am rechten Rand breiter und schmaler ziehen (Doppelklick setzt zurück).",
- "file": "updates/CapMap-Update-0.7.9.exe",
- "sha256": "497a45527ac562a306ba0cfcdead9f354812b0ba6555a27667edbf88a6ae8676",
- "size": 12401624
+ "version": "0.8.0",
+ "notes": "Übergänge wie in CapCut: Übergänge erscheinen als Kasten über dem Schnitt, lassen sich einzeln auswählen und am Rand in der Länge ziehen. Rechts gibt es eigene Einstellungen: Dauer, Verlauf (Sanft, Gleichmäßig, Langsam starten/enden), Übergang wechseln, Entfernen und Auf alle anwenden.",
+ "file": "updates/CapMap-Update-0.8.0.exe",
+ "sha256": "4e14849d1f070fa885c9ae88e279837e61e6c096352829a5108ebaf882aa69e0",
+ "size": 12402696
 }
