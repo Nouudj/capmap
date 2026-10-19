@@ -1,7 +1,7 @@
 {
- "version": "0.7.5",
- "notes": "CapMap 0.75: Neu – ClipMap (links auf der Startseite). Langes Video rein, KI findet die besten Momente, schreibt Hook-Titel, Beschreibung und Hashtags und macht daraus fertige 9:16-Shorts mit Untertiteln, ohne Pausen und mit Auto-Reframe.",
- "file": "updates/CapMap-Update-0.7.5.exe",
- "sha256": "5725be18ba70d02246f220681d8169d0fc74eeb51e740423898de71c8499c266",
- "size": 12394622
+ "version": "0.7.6",
+ "notes": "ClipMap im neuen Look: Magic Clips mit Upload-Fenster, eigene ClipMap-Projekte mit Fortschritt, Projektseite mit Zeitleiste über das ganze Video, hochkant-Vorschauen mit Score, Titel und Hashtags, Shorts per Klick erstellen und direkt zurück zu ClipMap.",
+ "file": "updates/CapMap-Update-0.7.6.exe",
+ "sha256": "34df771448ab7613525af831ee5cfe33a25aab261fa34ced57c72c98c61b403c",
+ "size": 12397946
 }
