@@ -1,7 +1,7 @@
 {
- "version": "0.7.4",
- "notes": "CapMap 0.74: Flüssige Timeline – Clips gleiten an ihren neuen Platz statt zu springen (beim Ziehen, Löschen, Rückgängig, Teilen, Layouts). An- und ausschaltbar unter Menü › Layout › Flüssige Timeline. Außerdem zeichnet die Timeline schneller.",
- "file": "updates/CapMap-Update-0.7.4.exe",
- "sha256": "bcd0a83ee39f8f98d35ba676df7d60b60312042fb7c26500cce6fbaca3a8769c",
- "size": 12387868
+ "version": "0.7.5",
+ "notes": "CapMap 0.75: Neu – ClipMap (links auf der Startseite). Lang Video rein, KI findet die besten Momente, schreibt Hook-Titel, Beschreibung und Hashtags und macht daraus fertige 9:16-Shorts mit Untertiteln, ohne Pausen und mit Auto-Reframe.",
+ "file": "updates/CapMap-Update-0.7.5.exe",
+ "sha256": "5725be18ba70d02246f220681d8169d0fc74eeb51e740423898de71c8499c266",
+ "size": 12394622
 }
