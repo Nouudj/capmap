@@ -1,13 +1,13 @@
 {
- "version": "0.8.8",
- "notes": "Neue Effekte: 3D-Zoom, Neon-Kontur, Nachbilder, Bewegungsunschärfe. Übergänge: Reinzoomen, Rauszoomen und Drehen neu, dazu Reinschieben links/rechts und Schwenk hoch",
- "file": "updates/CapMap-Update-0.8.8.exe",
- "sha256": "f8c095a56d6a786cb61162142caa1282a67d9234d048ba00c2c6a481559e9280",
- "size": 36205093,
+ "version": "0.8.9",
+ "notes": "13 neue Effekte (Charakter-Intro, Color-Pop, Aura, Klon, Porträt-Modus, Zerfallen u. a.), 11 neue Übergänge (Datamosh, Pinselstrich, Hintergrund-Wechsel u. a.), Beat-Sync für Effekte, eigene .cube-LUTs importieren mit Ordnern",
+ "file": "updates/CapMap-Update-0.8.9.exe",
+ "sha256": "8023c888853e978baabe86484197d78504a4c9d19935fea2a3d788d41a220e86",
+ "size": 36219989,
  "mac": {
-  "file": "updates/CapMap-Mac-Update-0.8.8.zip",
-  "sha256": "a8f26a1467628b358156df5b15845a2148cf41f05b45b2326cc2b74e232bf50a",
-  "size": 39328331,
+  "file": "updates/CapMap-Mac-Update-0.8.9.zip",
+  "sha256": "5d534e0ed3ae227adb0b743c15732ec0388ff154462b8b073b43afe8a2103d17",
+  "size": 39338429,
   "minApp": "0.8.1"
  }
 }
