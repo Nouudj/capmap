@@ -1,13 +1,13 @@
 {
- "version": "0.9.3",
- "notes": "Umwandeln über die Grafikkarte (NVIDIA, Intel, AMD, Apple-Chip), meist 5- bis 10-mal schneller. Neu: schnelle Arbeitskopie in 720p für Vorschau, Schnitt und Analyse, der Export holt die benutzten Stellen aus dem Original in voller Qualität. Beides unter Optionen → Umwandeln.",
- "file": "updates/CapMap-Update-0.9.3.exe",
- "sha256": "ec577e403749a750948d4d72a79da9a6dae8dcb5f59a50cb28fad3cb91fd38f3",
- "size": 36299074,
+ "version": "0.9.4",
+ "notes": "Spracherkennung über die Grafikkarte (whisper.cpp mit Vulkan auf Windows, Metal auf dem Mac): Untertitel und ClipMap-Analyse sind deutlich schneller. Beim ersten Mal wird das Sprachmodell einmalig geladen. Klappt es nicht, nimmt CapMap automatisch die bisherige Erkennung. Einstellung unter Optionen → Grafikkarte.",
+ "file": "updates/CapMap-Update-0.9.4.exe",
+ "sha256": "a3c6d1bac3c22f250083141bde2c8c26764f97be24342a181ac8b4196ece90b9",
+ "size": 44282784,
  "mac": {
-  "file": "updates/CapMap-Mac-Update-0.9.3.zip",
-  "sha256": "85bb42208ce691d0e22e3c5f458b2b0a61e50b12c4bd63e7ed1ef307c76c1b43",
-  "size": 39430901,
+  "file": "updates/CapMap-Mac-Update-0.9.4.zip",
+  "sha256": "773a418088e90655e5d98dfab7ccab8445c930c4bb3ad8a1a6918cab004eed35",
+  "size": 41570780,
   "minApp": "0.8.1"
  }
 }
