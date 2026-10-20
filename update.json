@@ -1,13 +1,13 @@
 {
- "version": "0.8.4",
- "notes": "ClipMap: Sicherheitsnetz beim Erstellen von Shorts – fehlt das Video nach dem Pausen-Entfernen, wird der Clip automatisch wieder eingefügt. Geht etwas schief, zeigt CapMap jetzt eine Meldung mit dem Grund.",
- "file": "updates/CapMap-Update-0.8.4.exe",
- "sha256": "bd69b56689802f6ef0d98a1535841e76d04fbb65188d536a20020779f523ec12",
- "size": 12404891,
+ "version": "0.8.5",
+ "notes": "ClipMap: Vollbild-Vorschau zum Anpassen (Bilder verschieben, zoomen, Trennlinie ziehen), Layout vor dem Erstellen wählen, Video vorher zuschneiden, Person verfolgen optional, freie Rahmen mit Ecken wie im Editor",
+ "file": "updates/CapMap-Update-0.8.5.exe",
+ "sha256": "935a6d5c01eed744563229ac3771d2dc45370969dc205bef499f5015dbb608fd",
+ "size": 12411841,
  "mac": {
-  "file": "updates/CapMap-Mac-Update-0.8.4.zip",
-  "sha256": "a9094825e883f79c21a7322324e231a7f9c3751c40af8e492f63711e2bff1220",
-  "size": 15371361,
+  "file": "updates/CapMap-Mac-Update-0.8.5.zip",
+  "sha256": "90dd45fc386c845000640fd2ec189b44cd4890a82cc467d766ce29f7df3f2f98",
+  "size": 15380067,
   "minApp": "0.8.1"
  }
 }
