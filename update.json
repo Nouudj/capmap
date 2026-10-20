@@ -1,13 +1,13 @@
 {
- "version": "0.8.7",
- "notes": "Projekte mit allen Medien sichern und öffnen (Videos, Bilder und Sounds stecken in der Projektdatei, kein Neu-Verknüpfen mehr)",
- "file": "updates/CapMap-Update-0.8.7.exe",
- "sha256": "4d3480335e5ebb31f6490e97aba91f074730605d6ea10fd42ea3e27dfc95d9ff",
- "size": 36215006,
+ "version": "0.8.8",
+ "notes": "Neue Effekte: 3D-Zoom, Neon-Kontur, Nachbilder, Bewegungsunschärfe. Übergänge: Reinzoomen, Rauszoomen und Drehen neu, dazu Reinschieben links/rechts und Schwenk hoch",
+ "file": "updates/CapMap-Update-0.8.8.exe",
+ "sha256": "f8c095a56d6a786cb61162142caa1282a67d9234d048ba00c2c6a481559e9280",
+ "size": 36205093,
  "mac": {
-  "file": "updates/CapMap-Mac-Update-0.8.7.zip",
-  "sha256": "e7277bd15862776b49d0462b79b72b2e6ca38875802e0754b78c776529b492e9",
-  "size": 39325856,
+  "file": "updates/CapMap-Mac-Update-0.8.8.zip",
+  "sha256": "a8f26a1467628b358156df5b15845a2148cf41f05b45b2326cc2b74e232bf50a",
+  "size": 39328331,
   "minApp": "0.8.1"
  }
 }
