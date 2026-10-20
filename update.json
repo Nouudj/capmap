@@ -1,13 +1,13 @@
 {
- "version": "0.9.4.1",
- "notes": "Lange Videos: Die Tonkurve wird jetzt angezeigt, und beim Export fehlt der Ton nicht mehr (CapMap liest nur den benötigten Teil). H.265 wird ausdrücklich über die Grafikkarte abgespielt. Kann ein Video trotzdem nicht direkt laufen, zeigt das Umwandeln-Fenster den genauen Grund.",
- "file": "updates/CapMap-Update-0.9.4.1.exe",
- "sha256": "8a89cea89fab792b508bfcce1931508bd111b91ff2c48677b87e82350bd28eb4",
- "size": 44292448,
+ "version": "0.9.4.2",
+ "notes": "Videos in fremder Verpackung (z. B. MPEG-TS von Stream-Aufnahmen, obwohl .mp4) werden in Sekunden umgepackt statt umgewandelt, ohne Qualitätsverlust. Tonkurve erscheint jetzt auch bei Projekten aus ClipMap. Umgewandelte Dateien und Ton werden deutlich schneller eingelesen.",
+ "file": "updates/CapMap-Update-0.9.4.2.exe",
+ "sha256": "e311578ca59bfd66f37454940729824366b6e36b463d8ba073cdfd3dc5327295",
+ "size": 44289160,
  "mac": {
-  "file": "updates/CapMap-Mac-Update-0.9.4.1.zip",
-  "sha256": "46554d8319ea27757bdfcf9df1d7570e3074874d0c9a5862649f6a56889830a8",
-  "size": 41572531,
+  "file": "updates/CapMap-Mac-Update-0.9.4.2.zip",
+  "sha256": "ec110cd4e8ba78a1ffd09ac17f0a666e57de9ddb79757c15023db06e4ebcf1b8",
+  "size": 41574625,
   "minApp": "0.8.1"
  }
 }
