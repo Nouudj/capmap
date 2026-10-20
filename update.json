@@ -1,13 +1,13 @@
 {
- "version": "0.9.4",
- "notes": "Spracherkennung über die Grafikkarte (whisper.cpp mit Vulkan auf Windows, Metal auf dem Mac): Untertitel und ClipMap-Analyse sind deutlich schneller. Beim ersten Mal wird das Sprachmodell einmalig geladen. Klappt es nicht, nimmt CapMap automatisch die bisherige Erkennung. Einstellung unter Optionen → Grafikkarte.",
- "file": "updates/CapMap-Update-0.9.4.exe",
- "sha256": "a3c6d1bac3c22f250083141bde2c8c26764f97be24342a181ac8b4196ece90b9",
- "size": 44282784,
+ "version": "0.9.4.1",
+ "notes": "Lange Videos: Die Tonkurve wird jetzt angezeigt, und beim Export fehlt der Ton nicht mehr (CapMap liest nur den benötigten Teil). H.265 wird ausdrücklich über die Grafikkarte abgespielt. Kann ein Video trotzdem nicht direkt laufen, zeigt das Umwandeln-Fenster den genauen Grund.",
+ "file": "updates/CapMap-Update-0.9.4.1.exe",
+ "sha256": "8a89cea89fab792b508bfcce1931508bd111b91ff2c48677b87e82350bd28eb4",
+ "size": 44292448,
  "mac": {
-  "file": "updates/CapMap-Mac-Update-0.9.4.zip",
-  "sha256": "773a418088e90655e5d98dfab7ccab8445c930c4bb3ad8a1a6918cab004eed35",
-  "size": 41570780,
+  "file": "updates/CapMap-Mac-Update-0.9.4.1.zip",
+  "sha256": "46554d8319ea27757bdfcf9df1d7570e3074874d0c9a5862649f6a56889830a8",
+  "size": 41572531,
   "minApp": "0.8.1"
  }
 }
