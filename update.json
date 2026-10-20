@@ -1,13 +1,13 @@
 {
- "version": "0.8.5",
- "notes": "ClipMap: Vollbild-Vorschau zum Anpassen (Bilder verschieben, zoomen, Trennlinie ziehen), Layout vor dem Erstellen wählen, Video vorher zuschneiden, Person verfolgen optional, freie Rahmen mit Ecken wie im Editor",
- "file": "updates/CapMap-Update-0.8.5.exe",
- "sha256": "935a6d5c01eed744563229ac3771d2dc45370969dc205bef499f5015dbb608fd",
- "size": 12411841,
+ "version": "0.8.6",
+ "notes": "Hintergrund entfernen: neue präzise Erkennung (saubere Kanten, auch mehrere Personen), Kante verschieben, schnelle Variante weiter wählbar",
+ "file": "updates/CapMap-Update-0.8.6.exe",
+ "sha256": "a90e9ccad0c3c496c7a9e8eb2edfc2f8d75128be2ce033f953d3b6a11b6cc4a5",
+ "size": 36205233,
  "mac": {
-  "file": "updates/CapMap-Mac-Update-0.8.5.zip",
-  "sha256": "90dd45fc386c845000640fd2ec189b44cd4890a82cc467d766ce29f7df3f2f98",
-  "size": 15380067,
+  "file": "updates/CapMap-Mac-Update-0.8.6.zip",
+  "sha256": "a7a85763040a6bf6733123eb6186593af5b0c3697e1d173ac6fbe5865a7f8167",
+  "size": 39325184,
   "minApp": "0.8.1"
  }
 }
