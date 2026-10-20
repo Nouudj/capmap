@@ -1,13 +1,13 @@
 {
- "version": "0.8.6",
- "notes": "Hintergrund entfernen: neue präzise Erkennung (saubere Kanten, auch mehrere Personen), Kante verschieben, schnelle Variante weiter wählbar",
- "file": "updates/CapMap-Update-0.8.6.exe",
- "sha256": "a90e9ccad0c3c496c7a9e8eb2edfc2f8d75128be2ce033f953d3b6a11b6cc4a5",
- "size": 36205233,
+ "version": "0.8.7",
+ "notes": "Projekte mit allen Medien sichern und öffnen (Videos, Bilder und Sounds stecken in der Projektdatei, kein Neu-Verknüpfen mehr)",
+ "file": "updates/CapMap-Update-0.8.7.exe",
+ "sha256": "4d3480335e5ebb31f6490e97aba91f074730605d6ea10fd42ea3e27dfc95d9ff",
+ "size": 36215006,
  "mac": {
-  "file": "updates/CapMap-Mac-Update-0.8.6.zip",
-  "sha256": "a7a85763040a6bf6733123eb6186593af5b0c3697e1d173ac6fbe5865a7f8167",
-  "size": 39325184,
+  "file": "updates/CapMap-Mac-Update-0.8.7.zip",
+  "sha256": "e7277bd15862776b49d0462b79b72b2e6ca38875802e0754b78c776529b492e9",
+  "size": 39325856,
   "minApp": "0.8.1"
  }
 }
