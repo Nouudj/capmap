@@ -1,13 +1,13 @@
 {
- "version": "0.9.0",
- "notes": "Neuer Bereich Motion: 36 animierte Vorlagen (Bauchbinden, Titel, kinetische Schrift, Zähler, Social Media, Formen, Countdown, Diagramme, Logo-Reveals) mit eigenen Ordnern und Import für Lottie-Animationen und transparente Videos",
- "file": "updates/CapMap-Update-0.9.0.exe",
- "sha256": "b9d979d085b03b7926b2482229d028f617c7e8e084bf67ae333d5596b3622ef5",
- "size": 36292000,
+ "version": "0.9.1",
+ "notes": "Motion: Vorschaubilder für Videos, .mov mit Transparenz wird automatisch umgewandelt, neue Kategorie Nachrichten (Chat-Verlauf, Handy-Chat, Benachrichtigung u. a.). Claude kann jetzt Ordner mit LUTs, Motions und Sounds direkt importieren",
+ "file": "updates/CapMap-Update-0.9.1.exe",
+ "sha256": "c70074625cc739f835ac8289720940880f496d8fab80ab3350edd7845fcb4ddc",
+ "size": 36298315,
  "mac": {
-  "file": "updates/CapMap-Mac-Update-0.9.0.zip",
-  "sha256": "48a465bb0f55089b07d06fe217e6770d255d2693aed5747ec3e169ebeaf1c447",
-  "size": 39422009,
+  "file": "updates/CapMap-Mac-Update-0.9.1.zip",
+  "sha256": "03d2866798a9fcf21891c492307989c91712ff2d297ddd047de2c89615c4087b",
+  "size": 39426977,
   "minApp": "0.8.1"
  }
 }
