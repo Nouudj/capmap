@@ -1,13 +1,13 @@
 {
- "version": "0.8.9",
- "notes": "13 neue Effekte (Charakter-Intro, Color-Pop, Aura, Klon, Porträt-Modus, Zerfallen u. a.), 11 neue Übergänge (Datamosh, Pinselstrich, Hintergrund-Wechsel u. a.), Beat-Sync für Effekte, eigene .cube-LUTs importieren mit Ordnern",
- "file": "updates/CapMap-Update-0.8.9.exe",
- "sha256": "8023c888853e978baabe86484197d78504a4c9d19935fea2a3d788d41a220e86",
- "size": 36219989,
+ "version": "0.9.0",
+ "notes": "Neuer Bereich Motion: 36 animierte Vorlagen (Bauchbinden, Titel, kinetische Schrift, Zähler, Social Media, Formen, Countdown, Diagramme, Logo-Reveals) mit eigenen Ordnern und Import für Lottie-Animationen und transparente Videos",
+ "file": "updates/CapMap-Update-0.9.0.exe",
+ "sha256": "b9d979d085b03b7926b2482229d028f617c7e8e084bf67ae333d5596b3622ef5",
+ "size": 36292000,
  "mac": {
-  "file": "updates/CapMap-Mac-Update-0.8.9.zip",
-  "sha256": "5d534e0ed3ae227adb0b743c15732ec0388ff154462b8b073b43afe8a2103d17",
-  "size": 39338429,
+  "file": "updates/CapMap-Mac-Update-0.9.0.zip",
+  "sha256": "48a465bb0f55089b07d06fe217e6770d255d2693aed5747ec3e169ebeaf1c447",
+  "size": 39422009,
   "minApp": "0.8.1"
  }
 }
