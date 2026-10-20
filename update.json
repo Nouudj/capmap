@@ -1,13 +1,13 @@
 {
- "version": "0.9.1",
- "notes": "Motion: Vorschaubilder für Videos, .mov mit Transparenz wird automatisch umgewandelt, neue Kategorie Nachrichten (Chat-Verlauf, Handy-Chat, Benachrichtigung u. a.). Claude kann jetzt Ordner mit LUTs, Motions und Sounds direkt importieren",
- "file": "updates/CapMap-Update-0.9.1.exe",
- "sha256": "c70074625cc739f835ac8289720940880f496d8fab80ab3350edd7845fcb4ddc",
- "size": 36298315,
+ "version": "0.9.2",
+ "notes": "Videos in H.265/HEVC oder AV1 (z. B. aus OBS) werden in ClipMap automatisch umgewandelt, damit Vorschau und Analyse klappen. Der Ton für die Spracherkennung wird jetzt direkt per ffmpeg gelesen, dadurch gehen auch sehr lange Aufnahmen (2 GB und mehr).",
+ "file": "updates/CapMap-Update-0.9.2.exe",
+ "sha256": "09bfd5bd7a4dec27addc7454c590fa8a2a3b43dfcd2517f4517d8e177ec7e2e0",
+ "size": 36286474,
  "mac": {
-  "file": "updates/CapMap-Mac-Update-0.9.1.zip",
-  "sha256": "03d2866798a9fcf21891c492307989c91712ff2d297ddd047de2c89615c4087b",
-  "size": 39426977,
+  "file": "updates/CapMap-Mac-Update-0.9.2.zip",
+  "sha256": "08ed3f1b65211b12b31f596fc1ffebab08edadf4065ac19360073854a25c9bf4",
+  "size": 39427784,
   "minApp": "0.8.1"
  }
 }
