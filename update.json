@@ -1,13 +1,13 @@
 {
- "version": "0.9.5.2",
- "notes": "Begrüßung schreibt jetzt flüssig wie echte Handschrift · Hauptmenü im neuen Website-Look · Beim Start blitzt der Editor nicht mehr kurz auf",
- "file": "updates/CapMap-Update-0.9.5.2.exe",
- "sha256": "94bfd04c25b074c6eda71333098e2db8ae03a0798416377359718534b627c997",
- "size": 61850873,
+ "version": "0.9.5.3",
+ "notes": "Neuer Look für den ganzen Editor und alle Farbschemata, wie auf der Website · Standard-Farbschema „CapMap“ · Schöne schmale Scrollbalken · Optionen: Zeilen überlappen nicht mehr",
+ "file": "updates/CapMap-Update-0.9.5.3.exe",
+ "sha256": "a4236e00559ef81247506674e2d86f5470d9c7b17afeef95afcaecf3bb53b1a4",
+ "size": 61856849,
  "mac": {
-  "file": "updates/CapMap-Mac-Update-0.9.5.2.zip",
-  "sha256": "df4cf3cb742e12ab01b7b6ab792ce973e4bfc08ea6c9230882bf8f23a0c3b294",
-  "size": 60725562,
+  "file": "updates/CapMap-Mac-Update-0.9.5.3.zip",
+  "sha256": "5e28c909c27678bd1a35a1b73f9a7d166b2639987c62bd8f4b100e8952a96bfb",
+  "size": 60726119,
   "minApp": "0.8.1"
  }
 }
