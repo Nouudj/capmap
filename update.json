@@ -1,13 +1,13 @@
 {
- "version": "0.9.4.2",
- "notes": "Videos in fremder Verpackung (z. B. MPEG-TS von Stream-Aufnahmen, obwohl .mp4) werden in Sekunden umgepackt statt umgewandelt, ohne Qualitätsverlust. Tonkurve erscheint jetzt auch bei Projekten aus ClipMap. Umgewandelte Dateien und Ton werden deutlich schneller eingelesen.",
- "file": "updates/CapMap-Update-0.9.4.2.exe",
- "sha256": "e311578ca59bfd66f37454940729824366b6e36b463d8ba073cdfd3dc5327295",
- "size": 44289160,
+ "version": "0.9.4.3",
+ "notes": "Schnellerer Export: Die Videobilder werden jetzt in einem Hintergrund-Thread gelesen, die Qualität bleibt Bild für Bild gleich. Optionen sind jetzt in Reiter aufgeteilt (Anpassen, Grafik, Export, Updates), neu: Standard-Einstellungen für den Export.",
+ "file": "updates/CapMap-Update-0.9.4.3.exe",
+ "sha256": "aec9215245ad6431785dae18d324d5de773b1c337daddeed6a69d0bf42d6994a",
+ "size": 44289155,
  "mac": {
-  "file": "updates/CapMap-Mac-Update-0.9.4.2.zip",
-  "sha256": "ec110cd4e8ba78a1ffd09ac17f0a666e57de9ddb79757c15023db06e4ebcf1b8",
-  "size": 41574625,
+  "file": "updates/CapMap-Mac-Update-0.9.4.3.zip",
+  "sha256": "a2004278b2c6cbdc0343d45e1991fb547411c1b0c244e56ae7e75022afbe63ae",
+  "size": 41577269,
   "minApp": "0.8.1"
  }
 }
