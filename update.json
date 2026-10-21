@@ -1,13 +1,13 @@
 {
- "version": "0.9.4.3",
- "notes": "Schnellerer Export: Die Videobilder werden jetzt in einem Hintergrund-Thread gelesen, die Qualität bleibt Bild für Bild gleich. Optionen sind jetzt in Reiter aufgeteilt (Anpassen, Grafik, Export, Updates), neu: Standard-Einstellungen für den Export.",
- "file": "updates/CapMap-Update-0.9.4.3.exe",
- "sha256": "aec9215245ad6431785dae18d324d5de773b1c337daddeed6a69d0bf42d6994a",
- "size": 44289155,
+ "version": "0.9.4.4",
+ "notes": "ClipMap: Der Ton für die Analyse wird jetzt immer direkt von der Festplatte gelesen, auch nach einem Neustart. Behebt den Fehler 'Unable to decode audio data' bei großen Videos. Verständliche Meldung, wenn ein Video keinen Ton hat.",
+ "file": "updates/CapMap-Update-0.9.4.4.exe",
+ "sha256": "fb028a019b9833b70a71434fc7d7323cd4d89bade6ca7382da2a19897701c70d",
+ "size": 44294272,
  "mac": {
-  "file": "updates/CapMap-Mac-Update-0.9.4.3.zip",
-  "sha256": "a2004278b2c6cbdc0343d45e1991fb547411c1b0c244e56ae7e75022afbe63ae",
-  "size": 41577269,
+  "file": "updates/CapMap-Mac-Update-0.9.4.4.zip",
+  "sha256": "f2b5d64f18afd6626bb7c2288afcb1aa38e6ba1da740575be31a1c45d97ec333",
+  "size": 41577600,
   "minApp": "0.8.1"
  }
 }
