@@ -1,13 +1,13 @@
 {
- "version": "0.9.4.4",
- "notes": "ClipMap: Der Ton für die Analyse wird jetzt immer direkt von der Festplatte gelesen, auch nach einem Neustart. Behebt den Fehler 'Unable to decode audio data' bei großen Videos. Verständliche Meldung, wenn ein Video keinen Ton hat.",
- "file": "updates/CapMap-Update-0.9.4.4.exe",
- "sha256": "fb028a019b9833b70a71434fc7d7323cd4d89bade6ca7382da2a19897701c70d",
- "size": 44294272,
+ "version": "0.9.4.5",
+ "notes": "Export-Messung: Nach jedem Export zeigt CapMap, wie viel Zeit pro Bild ins Lesen, Zeichnen und Kodieren ging und welche Ebene am meisten kostet.",
+ "file": "updates/CapMap-Update-0.9.4.5.exe",
+ "sha256": "34bbb70a741263aaea6a1103885f6c3dbe719af5bca2e2b7fe18ed6f7c415952",
+ "size": 44287280,
  "mac": {
-  "file": "updates/CapMap-Mac-Update-0.9.4.4.zip",
-  "sha256": "f2b5d64f18afd6626bb7c2288afcb1aa38e6ba1da740575be31a1c45d97ec333",
-  "size": 41577600,
+  "file": "updates/CapMap-Mac-Update-0.9.4.5.zip",
+  "sha256": "61bfedc23f111135e54985f4711c744ee7d9047c429805ff3893c7081a58991d",
+  "size": 41578887,
   "minApp": "0.8.1"
  }
 }
