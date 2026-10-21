@@ -1,13 +1,13 @@
 {
- "version": "0.9.4.7",
- "notes": "Spracherkennung: 'Sehr genau' nutzt jetzt Whisper large-v3-turbo, neu ist die Stufe 'Deutsch Profi' (speziell auf Deutsch trainiert). Pausen und Musik werden vorab erkannt, das verhindert erfundene Sätze und macht die Wortzeiten genauer.",
- "file": "updates/CapMap-Update-0.9.4.7.exe",
- "sha256": "0f5329838a47cb1bb86c8b892425b89f84df93adf95381f489107c800d4939e6",
- "size": 45034781,
+ "version": "0.9.4.8",
+ "notes": "Untertitel: Gesprochenes über Hintergrundmusik wird nicht mehr verworfen, echte Wiederholungen bleiben, an Abschnittsgrenzen gehen keine Wörter mehr verloren, leise Sprache wird seltener übersprungen.",
+ "file": "updates/CapMap-Update-0.9.4.8.exe",
+ "sha256": "5b2ff637a8d7a7e8b728e2ac949421c4a0694a74e95cd7330ad53ceef88aa86c",
+ "size": 45030978,
  "mac": {
-  "file": "updates/CapMap-Mac-Update-0.9.4.7.zip",
-  "sha256": "cfc0e39a1f12ed1f06ba7dedb8f8a19bb9324cf9a116ac57928343e9db1e2213",
-  "size": 42403902,
+  "file": "updates/CapMap-Mac-Update-0.9.4.8.zip",
+  "sha256": "08e1306d9add4212646ef6cb0d51cdc331126b0fa46e30151928649a99cdbec6",
+  "size": 42404519,
   "minApp": "0.8.1"
  }
 }
