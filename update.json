@@ -1,13 +1,13 @@
 {
- "version": "0.9.5.1",
- "notes": "Neu: Begrüßung beim Start der Desktop-App, mit dem Stift geschrieben. Beim ersten Mal fragt CapMap nach deinem Namen, danach begrüßt es dich jedes Mal persönlich. Einstellbar unter Optionen → Anpassen → Begrüßung.",
- "file": "updates/CapMap-Update-0.9.5.1.exe",
- "sha256": "33b64f95494c6bfca8180d9e134a67059dfde77fad3dcba754119fe5c0714492",
- "size": 61858387,
+ "version": "0.9.5.2",
+ "notes": "Begrüßung schreibt jetzt flüssig wie echte Handschrift · Hauptmenü im neuen Website-Look · Beim Start blitzt der Editor nicht mehr kurz auf",
+ "file": "updates/CapMap-Update-0.9.5.2.exe",
+ "sha256": "94bfd04c25b074c6eda71333098e2db8ae03a0798416377359718534b627c997",
+ "size": 61850873,
  "mac": {
-  "file": "updates/CapMap-Mac-Update-0.9.5.1.zip",
-  "sha256": "23565795ee9d9d9495c35abb5e733365e45ed5439c420fafb10b8c285666fec2",
-  "size": 60723493,
+  "file": "updates/CapMap-Mac-Update-0.9.5.2.zip",
+  "sha256": "df4cf3cb742e12ab01b7b6ab792ce973e4bfc08ea6c9230882bf8f23a0c3b294",
+  "size": 60725562,
   "minApp": "0.8.1"
  }
 }
