@@ -1,13 +1,13 @@
 {
- "version": "0.9.4.6",
- "notes": "Export: CapMap probiert jetzt zuerst alle Varianten mit dem Video-Encoder der Grafikkarte, bevor es auf den Prozessor ausweicht. Die Export-Messung zeigt, worüber kodiert wurde.",
- "file": "updates/CapMap-Update-0.9.4.6.exe",
- "sha256": "8dc3ffb863e08eecebb47280b76ce260f58c33cbb8502b23366b05933f5af9ac",
- "size": 44288034,
+ "version": "0.9.4.7",
+ "notes": "Spracherkennung: 'Sehr genau' nutzt jetzt Whisper large-v3-turbo, neu ist die Stufe 'Deutsch Profi' (speziell auf Deutsch trainiert). Pausen und Musik werden vorab erkannt, das verhindert erfundene Sätze und macht die Wortzeiten genauer.",
+ "file": "updates/CapMap-Update-0.9.4.7.exe",
+ "sha256": "0f5329838a47cb1bb86c8b892425b89f84df93adf95381f489107c800d4939e6",
+ "size": 45034781,
  "mac": {
-  "file": "updates/CapMap-Mac-Update-0.9.4.6.zip",
-  "sha256": "d1bbadcb2c137bba62c6968505d9d628a1b6bae898d250d1c30dd0cf1867d4b7",
-  "size": 41579307,
+  "file": "updates/CapMap-Mac-Update-0.9.4.7.zip",
+  "sha256": "cfc0e39a1f12ed1f06ba7dedb8f8a19bb9324cf9a116ac57928343e9db1e2213",
+  "size": 42403902,
   "minApp": "0.8.1"
  }
 }
