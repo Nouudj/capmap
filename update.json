@@ -1,13 +1,13 @@
 {
- "version": "0.9.4.9",
- "notes": "Neu: Video-Coach (Claude bewertet deinen Schnitt und setzt Vorschläge mit einem Klick um), Im Takt schneiden (Clips automatisch auf die Beats verteilen), flüssige KI-Zeitlupe (2x/4x/8x) und neue Speed-Ramp-Vorlagen.",
- "file": "updates/CapMap-Update-0.9.4.9.exe",
- "sha256": "dab8a09d00d9ccef3951220a8abae3375c91164274742a280abbf6bc8be7c982",
- "size": 61842745,
+ "version": "0.9.5",
+ "notes": "Coach-Knopf steht jetzt direkt neben Claude. Die Kopfleiste passt sich kleineren Bildschirmen an.",
+ "file": "updates/CapMap-Update-0.9.5.exe",
+ "sha256": "5114b07b11f28d63cea33e1d7ac923111273afb8431c0716e687212a64a3f333",
+ "size": 61858847,
  "mac": {
-  "file": "updates/CapMap-Mac-Update-0.9.4.9.zip",
-  "sha256": "fe05ec5a9dce32d5c4908ce6f33ac47f7c31649fdd89fc902c61a466be2c617d",
-  "size": 60720377,
+  "file": "updates/CapMap-Mac-Update-0.9.5.zip",
+  "sha256": "434923493cdcf75e1144f878dd34e0151ad8634b9d1d542f336aef2a1e8adaaa",
+  "size": 60720415,
   "minApp": "0.8.1"
  }
 }
