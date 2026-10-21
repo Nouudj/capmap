@@ -1,13 +1,13 @@
 {
- "version": "0.9.5.4",
- "notes": "Begrüßung: zum Starten einfach nach oben wegziehen, nahtlos ins Hauptmenü · Beim Start blitzt der Editor nicht mehr auf · Fenster öffnet direkt in voller Größe",
- "file": "updates/CapMap-Update-0.9.5.4.exe",
- "sha256": "a2353fbde5e6598ef676dd47280d1882cd1cfde6a9193a63db2a61d62734f38c",
- "size": 61871404,
+ "version": "0.9.5.5",
+ "notes": "Begrüßung: beim Hochziehen ist im Hintergrund kein Editor mehr zu sehen",
+ "file": "updates/CapMap-Update-0.9.5.5.exe",
+ "sha256": "3d701edf4db341090335de490753c132f99b564c962429b02d5327895ecd3aa3",
+ "size": 61855503,
  "mac": {
-  "file": "updates/CapMap-Mac-Update-0.9.5.4.zip",
-  "sha256": "25f29bdacae71883a7045a8de4467f16cfdb0d2cc31af39f65684bcb92800b83",
-  "size": 60727509,
+  "file": "updates/CapMap-Mac-Update-0.9.5.5.zip",
+  "sha256": "ffbdd60fe4d6bc097002a3f90c1557113742244a1e9e72371b58b2a642283b17",
+  "size": 60727536,
   "minApp": "0.8.1"
  }
 }
