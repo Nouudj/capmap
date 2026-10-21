@@ -1,13 +1,13 @@
 {
- "version": "0.9.4.8",
- "notes": "Untertitel: Gesprochenes über Hintergrundmusik wird nicht mehr verworfen, echte Wiederholungen bleiben, an Abschnittsgrenzen gehen keine Wörter mehr verloren, leise Sprache wird seltener übersprungen.",
- "file": "updates/CapMap-Update-0.9.4.8.exe",
- "sha256": "5b2ff637a8d7a7e8b728e2ac949421c4a0694a74e95cd7330ad53ceef88aa86c",
- "size": 45030978,
+ "version": "0.9.4.9",
+ "notes": "Neu: Video-Coach (Claude bewertet deinen Schnitt und setzt Vorschläge mit einem Klick um), Im Takt schneiden (Clips automatisch auf die Beats verteilen), flüssige KI-Zeitlupe (2x/4x/8x) und neue Speed-Ramp-Vorlagen.",
+ "file": "updates/CapMap-Update-0.9.4.9.exe",
+ "sha256": "dab8a09d00d9ccef3951220a8abae3375c91164274742a280abbf6bc8be7c982",
+ "size": 61842745,
  "mac": {
-  "file": "updates/CapMap-Mac-Update-0.9.4.8.zip",
-  "sha256": "08e1306d9add4212646ef6cb0d51cdc331126b0fa46e30151928649a99cdbec6",
-  "size": 42404519,
+  "file": "updates/CapMap-Mac-Update-0.9.4.9.zip",
+  "sha256": "fe05ec5a9dce32d5c4908ce6f33ac47f7c31649fdd89fc902c61a466be2c617d",
+  "size": 60720377,
   "minApp": "0.8.1"
  }
 }
