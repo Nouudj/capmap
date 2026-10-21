@@ -1,13 +1,13 @@
 {
- "version": "0.9.5",
- "notes": "Coach-Knopf steht jetzt direkt neben Claude. Die Kopfleiste passt sich kleineren Bildschirmen an.",
- "file": "updates/CapMap-Update-0.9.5.exe",
- "sha256": "5114b07b11f28d63cea33e1d7ac923111273afb8431c0716e687212a64a3f333",
- "size": 61858847,
+ "version": "0.9.5.1",
+ "notes": "Neu: Begrüßung beim Start der Desktop-App, mit dem Stift geschrieben. Beim ersten Mal fragt CapMap nach deinem Namen, danach begrüßt es dich jedes Mal persönlich. Einstellbar unter Optionen → Anpassen → Begrüßung.",
+ "file": "updates/CapMap-Update-0.9.5.1.exe",
+ "sha256": "33b64f95494c6bfca8180d9e134a67059dfde77fad3dcba754119fe5c0714492",
+ "size": 61858387,
  "mac": {
-  "file": "updates/CapMap-Mac-Update-0.9.5.zip",
-  "sha256": "434923493cdcf75e1144f878dd34e0151ad8634b9d1d542f336aef2a1e8adaaa",
-  "size": 60720415,
+  "file": "updates/CapMap-Mac-Update-0.9.5.1.zip",
+  "sha256": "23565795ee9d9d9495c35abb5e733365e45ed5439c420fafb10b8c285666fec2",
+  "size": 60723493,
   "minApp": "0.8.1"
  }
 }
