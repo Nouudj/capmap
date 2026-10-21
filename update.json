@@ -1,13 +1,13 @@
 {
- "version": "0.9.5.3",
- "notes": "Neuer Look für den ganzen Editor und alle Farbschemata, wie auf der Website · Standard-Farbschema „CapMap“ · Schöne schmale Scrollbalken · Optionen: Zeilen überlappen nicht mehr",
- "file": "updates/CapMap-Update-0.9.5.3.exe",
- "sha256": "a4236e00559ef81247506674e2d86f5470d9c7b17afeef95afcaecf3bb53b1a4",
- "size": 61856849,
+ "version": "0.9.5.4",
+ "notes": "Begrüßung: zum Starten einfach nach oben wegziehen, nahtlos ins Hauptmenü · Beim Start blitzt der Editor nicht mehr auf · Fenster öffnet direkt in voller Größe",
+ "file": "updates/CapMap-Update-0.9.5.4.exe",
+ "sha256": "a2353fbde5e6598ef676dd47280d1882cd1cfde6a9193a63db2a61d62734f38c",
+ "size": 61871404,
  "mac": {
-  "file": "updates/CapMap-Mac-Update-0.9.5.3.zip",
-  "sha256": "5e28c909c27678bd1a35a1b73f9a7d166b2639987c62bd8f4b100e8952a96bfb",
-  "size": 60726119,
+  "file": "updates/CapMap-Mac-Update-0.9.5.4.zip",
+  "sha256": "25f29bdacae71883a7045a8de4467f16cfdb0d2cc31af39f65684bcb92800b83",
+  "size": 60727509,
   "minApp": "0.8.1"
  }
 }
