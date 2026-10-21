@@ -1,13 +1,13 @@
 {
- "version": "0.9.4.5",
- "notes": "Export-Messung: Nach jedem Export zeigt CapMap, wie viel Zeit pro Bild ins Lesen, Zeichnen und Kodieren ging und welche Ebene am meisten kostet.",
- "file": "updates/CapMap-Update-0.9.4.5.exe",
- "sha256": "34bbb70a741263aaea6a1103885f6c3dbe719af5bca2e2b7fe18ed6f7c415952",
- "size": 44287280,
+ "version": "0.9.4.6",
+ "notes": "Export: CapMap probiert jetzt zuerst alle Varianten mit dem Video-Encoder der Grafikkarte, bevor es auf den Prozessor ausweicht. Die Export-Messung zeigt, worüber kodiert wurde.",
+ "file": "updates/CapMap-Update-0.9.4.6.exe",
+ "sha256": "8dc3ffb863e08eecebb47280b76ce260f58c33cbb8502b23366b05933f5af9ac",
+ "size": 44288034,
  "mac": {
-  "file": "updates/CapMap-Mac-Update-0.9.4.5.zip",
-  "sha256": "61bfedc23f111135e54985f4711c744ee7d9047c429805ff3893c7081a58991d",
-  "size": 41578887,
+  "file": "updates/CapMap-Mac-Update-0.9.4.6.zip",
+  "sha256": "d1bbadcb2c137bba62c6968505d9d628a1b6bae898d250d1c30dd0cf1867d4b7",
+  "size": 41579307,
   "minApp": "0.8.1"
  }
 }
