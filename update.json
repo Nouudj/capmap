@@ -1,13 +1,13 @@
 {
- "version": "0.9.5.7",
- "notes": "Neues Hauptmenü: Banner, Formatwahl, edlere Vorlagen, Listen-Ansicht, größere Vorschauen, Speicherplatz, Mitteilungen und dein Name oben rechts",
- "file": "updates/CapMap-Update-0.9.5.7.exe",
- "sha256": "964baf97f7eceed4f383cafc7c2553314fa7a43a1278473cb6cef173154f4b4b",
- "size": 61864537,
+ "version": "0.9.5.8",
+ "notes": "Neue Animationen: Magic Clips mit Lichtscanner, tanzender Equalizer während der Analyse, einfliegende Clips in der leeren Zeitleiste, Polarlicht bei der Begrüßung",
+ "file": "updates/CapMap-Update-0.9.5.8.exe",
+ "sha256": "4d3529c0cb5a062a22d1dc082e430b721c6083a5580eb961b19bd600fb37dfc6",
+ "size": 61860143,
  "mac": {
-  "file": "updates/CapMap-Mac-Update-0.9.5.7.zip",
-  "sha256": "36721c7dc45e476f5ff31d3f45327eeacbe7c4ce3584b0747e6d7e95ee21862e",
-  "size": 60736142,
+  "file": "updates/CapMap-Mac-Update-0.9.5.8.zip",
+  "sha256": "b913a907569bbb6ba50d387b63bc89b154a89652641896b33435e0c78a11d67e",
+  "size": 60738365,
   "minApp": "0.8.1"
  }
 }
