@@ -1,13 +1,13 @@
 {
- "version": "0.9.5.6",
- "notes": "Hauptmenü mit Animationen · Export aus ClipMap: kein Standbild mehr am Anfang · Player: kein Schwarzbild beim Springen, flüssigeres Abspielen",
- "file": "updates/CapMap-Update-0.9.5.6.exe",
- "sha256": "e372ea250cc114dfb0707ceafd0d1a712f81856f08acb383ad4609250341b114",
- "size": 61868694,
+ "version": "0.9.5.7",
+ "notes": "Neues Hauptmenü: Banner, Formatwahl, edlere Vorlagen, Listen-Ansicht, größere Vorschauen, Speicherplatz, Mitteilungen und dein Name oben rechts",
+ "file": "updates/CapMap-Update-0.9.5.7.exe",
+ "sha256": "964baf97f7eceed4f383cafc7c2553314fa7a43a1278473cb6cef173154f4b4b",
+ "size": 61864537,
  "mac": {
-  "file": "updates/CapMap-Mac-Update-0.9.5.6.zip",
-  "sha256": "216ad145ecd5d0111aada7b628f16d13dbbda453ffca3cac8ca2293ef7328d48",
-  "size": 60730568,
+  "file": "updates/CapMap-Mac-Update-0.9.5.7.zip",
+  "sha256": "36721c7dc45e476f5ff31d3f45327eeacbe7c4ce3584b0747e6d7e95ee21862e",
+  "size": 60736142,
   "minApp": "0.8.1"
  }
 }
