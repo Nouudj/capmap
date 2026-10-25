@@ -1,13 +1,13 @@
 {
- "version": "0.9.5.5",
- "notes": "Begrüßung: beim Hochziehen ist im Hintergrund kein Editor mehr zu sehen",
- "file": "updates/CapMap-Update-0.9.5.5.exe",
- "sha256": "3d701edf4db341090335de490753c132f99b564c962429b02d5327895ecd3aa3",
- "size": 61855503,
+ "version": "0.9.5.6",
+ "notes": "Hauptmenü mit Animationen · Export aus ClipMap: kein Standbild mehr am Anfang · Player: kein Schwarzbild beim Springen, flüssigeres Abspielen",
+ "file": "updates/CapMap-Update-0.9.5.6.exe",
+ "sha256": "e372ea250cc114dfb0707ceafd0d1a712f81856f08acb383ad4609250341b114",
+ "size": 61868694,
  "mac": {
-  "file": "updates/CapMap-Mac-Update-0.9.5.5.zip",
-  "sha256": "ffbdd60fe4d6bc097002a3f90c1557113742244a1e9e72371b58b2a642283b17",
-  "size": 60727536,
+  "file": "updates/CapMap-Mac-Update-0.9.5.6.zip",
+  "sha256": "216ad145ecd5d0111aada7b628f16d13dbbda453ffca3cac8ca2293ef7328d48",
+  "size": 60730568,
   "minApp": "0.8.1"
  }
 }
