@@ -1,13 +1,13 @@
 {
- "version": "0.9.5.8",
- "notes": "Neue Animationen: Magic Clips mit Lichtscanner, tanzender Equalizer während der Analyse, einfliegende Clips in der leeren Zeitleiste, Polarlicht bei der Begrüßung",
- "file": "updates/CapMap-Update-0.9.5.8.exe",
- "sha256": "4d3529c0cb5a062a22d1dc082e430b721c6083a5580eb961b19bd600fb37dfc6",
- "size": 61860143,
+ "version": "0.9.5.9",
+ "notes": "Vollbild ohne Taskleiste mit eigener, integrierter Fensterleiste (F11 zum Umschalten)",
+ "file": "updates/CapMap-Update-0.9.5.9.exe",
+ "sha256": "b850a3b623afb83f28bf10835a03feb3606868442374621dfc31fa9556612e40",
+ "size": 61864740,
  "mac": {
-  "file": "updates/CapMap-Mac-Update-0.9.5.8.zip",
-  "sha256": "b913a907569bbb6ba50d387b63bc89b154a89652641896b33435e0c78a11d67e",
-  "size": 60738365,
+  "file": "updates/CapMap-Mac-Update-0.9.5.9.zip",
+  "sha256": "4da36ee8224230e387ddfe1d685af6f9b5f8485771cacffd51d8f721a6b6cb88",
+  "size": 60739891,
   "minApp": "0.8.1"
  }
 }
