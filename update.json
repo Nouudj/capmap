@@ -1,13 +1,13 @@
 {
- "version": "0.9.6.1",
- "notes": "Neu: Von Link importieren (Datei-Menü) – Direktlinks, Google Drive und Dropbox als MP4 oder MP3; YouTube & Co. mit eigenem yt-dlp",
- "file": "updates/CapMap-Update-0.9.6.1.exe",
- "sha256": "55c1bc7d200aefc45966f593699c0320afe5c89b53e072102ea11b505774cd0c",
- "size": 61885129,
+ "version": "0.9.6.2",
+ "notes": "Mac: yt-dlp findet seine Helfer (deno) jetzt auch, wenn CapMap über Dock oder Finder gestartet wird",
+ "file": "updates/CapMap-Update-0.9.6.2.exe",
+ "sha256": "1dfec066b44206dd38336971006c25bc88419019e52f2836429b0caf5ce81681",
+ "size": 61874415,
  "mac": {
-  "file": "updates/CapMap-Mac-Update-0.9.6.1.zip",
-  "sha256": "a6bc958199af4aa01473f043f789b9e58732fbf26eb08b2bdfc41c93a2249713",
-  "size": 60748946,
+  "file": "updates/CapMap-Mac-Update-0.9.6.2.zip",
+  "sha256": "a41a6bf325a4a054bb01c1c1e32d3ae434fb3adfa0573a0702a41581d5c4bec9",
+  "size": 60749010,
   "minApp": "0.8.1"
  }
 }
