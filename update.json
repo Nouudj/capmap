@@ -1,13 +1,13 @@
 {
- "version": "0.9.6.3",
- "notes": "Kleine Updates: ab dem nächsten Update lädt CapMap nur noch die geänderten Dateien (meist 1–2 MB statt 60 MB)",
- "file": "https://raw.githubusercontent.com/Nouudj/capmap-updates/main/CapMap-Update-0.9.6.3.exe",
- "sha256": "3a573d30e0fb7be9115d30f92f5cd5e46b626eb9dc63386064ac27498cfc6c9e",
- "size": 61894559,
+ "version": "0.9.6.4",
+ "notes": "Editor feiner gemacht: Lichtkanten, weiche Übergänge, leuchtende Auswahl, Glas-Karten in den Medien",
+ "file": "https://raw.githubusercontent.com/Nouudj/capmap-updates/main/CapMap-Update-0.9.6.4.exe",
+ "sha256": "87ba8d010472c0c9208255579461f12baec1314692b8157137834949434df8e2",
+ "size": 61894223,
  "mac": {
-  "file": "https://raw.githubusercontent.com/Nouudj/capmap-updates/main/CapMap-Mac-Update-0.9.6.3.zip",
-  "sha256": "252431e1b13da5ef13ed42a58f5d1008005e4e66fb8adca30fbfe20e2a40d9b3",
-  "size": 60767821,
+  "file": "https://raw.githubusercontent.com/Nouudj/capmap-updates/main/CapMap-Mac-Update-0.9.6.4.zip",
+  "sha256": "2d91a06c89b9adcbfe4bc8485dcbf05c70f1a220cf76988f34539140feaf2119",
+  "size": 60769059,
   "minApp": "0.8.1"
  },
  "delta": {
