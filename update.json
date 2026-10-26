@@ -1,13 +1,13 @@
 {
- "version": "0.9.6.8",
- "notes": "60 neue Motion-Grafiken: 30 für virale Shorts (Hooks, Endkarte, Beweis-Karten, UI) und 30 Cinematic (edle Titel, Kinobalken, Filmkorn, Light Leaks, Wetter)",
- "file": "https://raw.githubusercontent.com/Nouudj/capmap-updates/main/CapMap-Update-0.9.6.8.exe",
- "sha256": "c41660d191d330f211ce4713c5b7743d6ca089643bb43064a09221e84d5f0b87",
- "size": 61921495,
+ "version": "0.9.6.9",
+ "notes": "181 animierte Emojis, 28 virale Sticker, 30 neue LUTs und 14 Filter, bessere Vorschaubilder für Effekte, Übergänge, Filter und LUTs",
+ "file": "https://raw.githubusercontent.com/Nouudj/capmap-updates/main/CapMap-Update-0.9.6.9.exe",
+ "sha256": "02cb84cc4f54d9fe6b87e5879e5ad6b9a6eef2fce52dba0c24971f5322a5b68e",
+ "size": 65867404,
  "mac": {
-  "file": "https://raw.githubusercontent.com/Nouudj/capmap-updates/main/CapMap-Mac-Update-0.9.6.8.zip",
-  "sha256": "89cfcabe32a882b406cea8e90aee5d5fa3782d25a5bddc1d5fe6eaf444f75b83",
-  "size": 60819457,
+  "file": "https://raw.githubusercontent.com/Nouudj/capmap-updates/main/CapMap-Mac-Update-0.9.6.9.zip",
+  "sha256": "e842947054ee2deb1daedeac021f094bfbc2e86d79db45fa9419cc8c87c72ac3",
+  "size": 65415282,
   "minApp": "0.8.1"
  },
  "delta": {
