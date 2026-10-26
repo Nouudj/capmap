@@ -1,13 +1,13 @@
 {
- "version": "0.9.6",
- "notes": "Hauptmenü im Glas-Look: neues Banner mit Lichteffekten, Glas-Karten für Projekte, leuchtende Format-Symbole, neue Seitenleiste",
- "file": "updates/CapMap-Update-0.9.6.exe",
- "sha256": "03c55b6856d77dec855ab941837c8614d0db2dc3100b2a65c6eeaee57bda219e",
- "size": 61857130,
+ "version": "0.9.6.1",
+ "notes": "Neu: Von Link importieren (Datei-Menü) – Direktlinks, Google Drive und Dropbox als MP4 oder MP3; YouTube & Co. mit eigenem yt-dlp",
+ "file": "updates/CapMap-Update-0.9.6.1.exe",
+ "sha256": "55c1bc7d200aefc45966f593699c0320afe5c89b53e072102ea11b505774cd0c",
+ "size": 61885129,
  "mac": {
-  "file": "updates/CapMap-Mac-Update-0.9.6.zip",
-  "sha256": "ae6d3fd882a5fac4e3edaab1d38aa35423d1a2448aed71667f19c3ff15e7c3cb",
-  "size": 60742919,
+  "file": "updates/CapMap-Mac-Update-0.9.6.1.zip",
+  "sha256": "a6bc958199af4aa01473f043f789b9e58732fbf26eb08b2bdfc41c93a2249713",
+  "size": 60748946,
   "minApp": "0.8.1"
  }
 }
