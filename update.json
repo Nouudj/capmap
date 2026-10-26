@@ -1,13 +1,13 @@
 {
- "version": "0.9.5.9",
- "notes": "Vollbild ohne Taskleiste mit eigener, integrierter Fensterleiste (F11 zum Umschalten)",
- "file": "updates/CapMap-Update-0.9.5.9.exe",
- "sha256": "b850a3b623afb83f28bf10835a03feb3606868442374621dfc31fa9556612e40",
- "size": 61864740,
+ "version": "0.9.6",
+ "notes": "Hauptmenü im Glas-Look: neues Banner mit Lichteffekten, Glas-Karten für Projekte, leuchtende Format-Symbole, neue Seitenleiste",
+ "file": "updates/CapMap-Update-0.9.6.exe",
+ "sha256": "03c55b6856d77dec855ab941837c8614d0db2dc3100b2a65c6eeaee57bda219e",
+ "size": 61857130,
  "mac": {
-  "file": "updates/CapMap-Mac-Update-0.9.5.9.zip",
-  "sha256": "4da36ee8224230e387ddfe1d685af6f9b5f8485771cacffd51d8f721a6b6cb88",
-  "size": 60739891,
+  "file": "updates/CapMap-Mac-Update-0.9.6.zip",
+  "sha256": "ae6d3fd882a5fac4e3edaab1d38aa35423d1a2448aed71667f19c3ff15e7c3cb",
+  "size": 60742919,
   "minApp": "0.8.1"
  }
 }
