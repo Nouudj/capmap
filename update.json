@@ -1,13 +1,13 @@
 {
- "version": "0.9.6.6",
- "notes": "Timeline edler: Glas-Clips mit Farbtönung und Symbolen, besser lesbare Beschriftung, Lineal mit Feinstrichen, schmaler leuchtender Abspielkopf",
- "file": "https://raw.githubusercontent.com/Nouudj/capmap-updates/main/CapMap-Update-0.9.6.6.exe",
- "sha256": "18f8b82e47de0b0d749ae7b554478ddc7867765a02bcc86d16f0283e1ff6136f",
- "size": 61914290,
+ "version": "0.9.6.7",
+ "notes": "Ausrichtungslinien beim Verschieben und Kürzen von Clips, ClipMap-Fenster im Glas-Look, Hochkant-Vorschau in ClipMap repariert",
+ "file": "https://raw.githubusercontent.com/Nouudj/capmap-updates/main/CapMap-Update-0.9.6.7.exe",
+ "sha256": "1c01d4dbd5d7907d7cd93efa2ac6e0780f736c5dd5c75d34234372585b8521fa",
+ "size": 61900916,
  "mac": {
-  "file": "https://raw.githubusercontent.com/Nouudj/capmap-updates/main/CapMap-Mac-Update-0.9.6.6.zip",
-  "sha256": "ddb9e24decc27f6964adb784d865a4b619c0210a62a71dbe2404f8529856412a",
-  "size": 60780983,
+  "file": "https://raw.githubusercontent.com/Nouudj/capmap-updates/main/CapMap-Mac-Update-0.9.6.7.zip",
+  "sha256": "1ab68779a282d8641b8521c60b3333c0f431d40dc75151774e940e057c8680e6",
+  "size": 60782850,
   "minApp": "0.8.1"
  },
  "delta": {
