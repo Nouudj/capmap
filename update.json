@@ -1,13 +1,13 @@
 {
- "version": "0.9.6.5",
- "notes": "57 neue Übergänge (Kamera, Wischen, Formen, Licht, Ausgefallen) und neue Lichtschlieren-Effekte",
- "file": "https://raw.githubusercontent.com/Nouudj/capmap-updates/main/CapMap-Update-0.9.6.5.exe",
- "sha256": "4855900649b7c0cececd55483b1c0742ea00540b0a7533751969f780bde4272c",
- "size": 61903581,
+ "version": "0.9.6.6",
+ "notes": "Timeline edler: Glas-Clips mit Farbtönung und Symbolen, besser lesbare Beschriftung, Lineal mit Feinstrichen, schmaler leuchtender Abspielkopf",
+ "file": "https://raw.githubusercontent.com/Nouudj/capmap-updates/main/CapMap-Update-0.9.6.6.exe",
+ "sha256": "18f8b82e47de0b0d749ae7b554478ddc7867765a02bcc86d16f0283e1ff6136f",
+ "size": 61914290,
  "mac": {
-  "file": "https://raw.githubusercontent.com/Nouudj/capmap-updates/main/CapMap-Mac-Update-0.9.6.5.zip",
-  "sha256": "3b5ada9f74f2f9e57555d2bf15e04f18d77ef86b80f2227bc585039315715241",
-  "size": 60778773,
+  "file": "https://raw.githubusercontent.com/Nouudj/capmap-updates/main/CapMap-Mac-Update-0.9.6.6.zip",
+  "sha256": "ddb9e24decc27f6964adb784d865a4b619c0210a62a71dbe2404f8529856412a",
+  "size": 60780983,
   "minApp": "0.8.1"
  },
  "delta": {
