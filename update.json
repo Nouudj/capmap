@@ -1,13 +1,13 @@
 {
- "version": "0.9.7.2",
- "notes": "Neu: Bildschirm aufnehmen – Bildschirm oder Fenster mit Kamera (Kreis/Rechteck) und Mikrofon, danach zuschneiden und im Editor weitermachen",
- "file": "https://raw.githubusercontent.com/Nouudj/capmap-updates/main/CapMap-Update-0.9.7.2.exe",
- "sha256": "225088f42e695abcc133ab570a356bcc992e6df82e28ec8116a35f15ed5afaff",
- "size": 76056228,
+ "version": "0.9.7.3",
+ "notes": "Bildschirmaufnahme: Rundung der Rechteck-Kamera selbst einstellbar",
+ "file": "https://raw.githubusercontent.com/Nouudj/capmap-updates/main/CapMap-Update-0.9.7.3.exe",
+ "sha256": "5277023c9b5d4fc9f827409f77b0ce7f3a67e70f50d0c78cfd8895c5c70a99e8",
+ "size": 76063712,
  "mac": {
-  "file": "https://raw.githubusercontent.com/Nouudj/capmap-updates/main/CapMap-Mac-Update-0.9.7.2.zip",
-  "sha256": "3757c6f3c828c1cddcf3473bdc45841824be44435e8b03a0c651c9a1ffaaab98",
-  "size": 77165505,
+  "file": "https://raw.githubusercontent.com/Nouudj/capmap-updates/main/CapMap-Mac-Update-0.9.7.3.zip",
+  "sha256": "4f222a7d35a37ecc85d0ebf3c1a59b9dc87661465d3044a9574317503ebbd25d",
+  "size": 77165673,
   "minApp": "0.8.1"
  },
  "delta": {
