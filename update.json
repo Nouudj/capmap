@@ -1,13 +1,13 @@
 {
- "version": "0.9.7.1",
- "notes": "Desktop-App: kräftigere Akzentfarben (Banner, Symbol-Kacheln, Buttons)",
- "file": "https://raw.githubusercontent.com/Nouudj/capmap-updates/main/CapMap-Update-0.9.7.1.exe",
- "sha256": "94efca25469ec67448377e8a8d485ce5874e05f02799fc406fced2bac64548fe",
- "size": 76050869,
+ "version": "0.9.7.2",
+ "notes": "Neu: Bildschirm aufnehmen – Bildschirm oder Fenster mit Kamera (Kreis/Rechteck) und Mikrofon, danach zuschneiden und im Editor weitermachen",
+ "file": "https://raw.githubusercontent.com/Nouudj/capmap-updates/main/CapMap-Update-0.9.7.2.exe",
+ "sha256": "225088f42e695abcc133ab570a356bcc992e6df82e28ec8116a35f15ed5afaff",
+ "size": 76056228,
  "mac": {
-  "file": "https://raw.githubusercontent.com/Nouudj/capmap-updates/main/CapMap-Mac-Update-0.9.7.1.zip",
-  "sha256": "f0b19bfb71204321c251cbba566e57ab7550172abcb6f01c6dc04c5c8753a498",
-  "size": 77152545,
+  "file": "https://raw.githubusercontent.com/Nouudj/capmap-updates/main/CapMap-Mac-Update-0.9.7.2.zip",
+  "sha256": "3757c6f3c828c1cddcf3473bdc45841824be44435e8b03a0c651c9a1ffaaab98",
+  "size": 77165505,
   "minApp": "0.8.1"
  },
  "delta": {
