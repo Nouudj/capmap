@@ -1,13 +1,13 @@
 {
- "version": "0.9.6.9",
- "notes": "181 animierte Emojis, 28 virale Sticker, 30 neue LUTs und 14 Filter, bessere Vorschaubilder für Effekte, Übergänge, Filter und LUTs",
- "file": "https://raw.githubusercontent.com/Nouudj/capmap-updates/main/CapMap-Update-0.9.6.9.exe",
- "sha256": "02cb84cc4f54d9fe6b87e5879e5ad6b9a6eef2fce52dba0c24971f5322a5b68e",
- "size": 65867404,
+ "version": "0.9.7.0",
+ "notes": "Motion-Tracking (Text, Sticker und Verpixeln folgen Objekten), Verpixeln mit Gesichtsfolge, Gesichts-Retusche, Körper formen und 7 neue Körpereffekte",
+ "file": "https://raw.githubusercontent.com/Nouudj/capmap-updates/main/CapMap-Update-0.9.7.0.exe",
+ "sha256": "930f7bce563ae3ba53cc408c519952648527477e52c44c5cb4d46f47f3297724",
+ "size": 76056212,
  "mac": {
-  "file": "https://raw.githubusercontent.com/Nouudj/capmap-updates/main/CapMap-Mac-Update-0.9.6.9.zip",
-  "sha256": "e842947054ee2deb1daedeac021f094bfbc2e86d79db45fa9419cc8c87c72ac3",
-  "size": 65415282,
+  "file": "https://raw.githubusercontent.com/Nouudj/capmap-updates/main/CapMap-Mac-Update-0.9.7.0.zip",
+  "sha256": "0c32bd19c5be9c956de4e9ec0f72eea3e09ff46084c37caee76d47e43d03d871",
+  "size": 77152357,
   "minApp": "0.8.1"
  },
  "delta": {
