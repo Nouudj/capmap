@@ -1,13 +1,13 @@
 {
- "version": "0.9.7.0",
- "notes": "Motion-Tracking (Text, Sticker und Verpixeln folgen Objekten), Verpixeln mit Gesichtsfolge, Gesichts-Retusche, Körper formen und 7 neue Körpereffekte",
- "file": "https://raw.githubusercontent.com/Nouudj/capmap-updates/main/CapMap-Update-0.9.7.0.exe",
- "sha256": "930f7bce563ae3ba53cc408c519952648527477e52c44c5cb4d46f47f3297724",
- "size": 76056212,
+ "version": "0.9.7.1",
+ "notes": "Desktop-App: kräftigere Akzentfarben (Banner, Symbol-Kacheln, Buttons)",
+ "file": "https://raw.githubusercontent.com/Nouudj/capmap-updates/main/CapMap-Update-0.9.7.1.exe",
+ "sha256": "94efca25469ec67448377e8a8d485ce5874e05f02799fc406fced2bac64548fe",
+ "size": 76050869,
  "mac": {
-  "file": "https://raw.githubusercontent.com/Nouudj/capmap-updates/main/CapMap-Mac-Update-0.9.7.0.zip",
-  "sha256": "0c32bd19c5be9c956de4e9ec0f72eea3e09ff46084c37caee76d47e43d03d871",
-  "size": 77152357,
+  "file": "https://raw.githubusercontent.com/Nouudj/capmap-updates/main/CapMap-Mac-Update-0.9.7.1.zip",
+  "sha256": "f0b19bfb71204321c251cbba566e57ab7550172abcb6f01c6dc04c5c8753a498",
+  "size": 77152545,
   "minApp": "0.8.1"
  },
  "delta": {
