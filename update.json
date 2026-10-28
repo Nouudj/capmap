@@ -1,13 +1,13 @@
 {
- "version": "0.9.7.5",
- "notes": "Flüssiger: Editor rechnet nicht mehr im Hintergrund, unsichtbare Animationen pausieren",
- "file": "https://raw.githubusercontent.com/Nouudj/capmap-updates/main/CapMap-Update-0.9.7.5.exe",
- "sha256": "6655ceb312f6b1fef4f89ae7a569eda4061641291b551fa4d0f0390db6b31e62",
- "size": 76061994,
+ "version": "0.9.7.6",
+ "notes": "Jedes Farb-Design hat jetzt einen eigenen Neon-Farbverlauf",
+ "file": "https://raw.githubusercontent.com/Nouudj/capmap-updates/main/CapMap-Update-0.9.7.6.exe",
+ "sha256": "337862f356ad77c44d08829f12d0683ff72e95cc9ff348acba63000cdf04f2d3",
+ "size": 76078474,
  "mac": {
-  "file": "https://raw.githubusercontent.com/Nouudj/capmap-updates/main/CapMap-Mac-Update-0.9.7.5.zip",
-  "sha256": "9a642c3127f59ca12aa8844c06e2628bd797eaae05254b356987bdfcfdb421d5",
-  "size": 77168535,
+  "file": "https://raw.githubusercontent.com/Nouudj/capmap-updates/main/CapMap-Mac-Update-0.9.7.6.zip",
+  "sha256": "d84fa4bf1c91041ff7ea42e41c59016490241a7bba4ffb2a9bac3ef2acd5efe5",
+  "size": 77169640,
   "minApp": "0.8.1"
  },
  "delta": {
