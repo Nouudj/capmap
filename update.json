@@ -1,13 +1,13 @@
 {
- "version": "0.9.7.3",
- "notes": "Bildschirmaufnahme: Rundung der Rechteck-Kamera selbst einstellbar",
- "file": "https://raw.githubusercontent.com/Nouudj/capmap-updates/main/CapMap-Update-0.9.7.3.exe",
- "sha256": "5277023c9b5d4fc9f827409f77b0ce7f3a67e70f50d0c78cfd8895c5c70a99e8",
- "size": 76063712,
+ "version": "0.9.7.4",
+ "notes": "Übersichtlicheres Rechtsklick-Menü: Symbol-Leiste für Kopieren, Teilen, Löschen & Co. und klare Gruppen",
+ "file": "https://raw.githubusercontent.com/Nouudj/capmap-updates/main/CapMap-Update-0.9.7.4.exe",
+ "sha256": "94c74b5af40b0bec29c148123515e755a630675367c7cd7af182354ee7fd1770",
+ "size": 76062369,
  "mac": {
-  "file": "https://raw.githubusercontent.com/Nouudj/capmap-updates/main/CapMap-Mac-Update-0.9.7.3.zip",
-  "sha256": "4f222a7d35a37ecc85d0ebf3c1a59b9dc87661465d3044a9574317503ebbd25d",
-  "size": 77165673,
+  "file": "https://raw.githubusercontent.com/Nouudj/capmap-updates/main/CapMap-Mac-Update-0.9.7.4.zip",
+  "sha256": "d8a3d484fd04c3fa0bd0d350539e7a44f4dacccac27aa60d0fce80d0a85a2fbe",
+  "size": 77167926,
   "minApp": "0.8.1"
  },
  "delta": {
