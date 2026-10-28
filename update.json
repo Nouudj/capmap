@@ -1,13 +1,13 @@
 {
- "version": "0.9.7.4",
- "notes": "Übersichtlicheres Rechtsklick-Menü: Symbol-Leiste für Kopieren, Teilen, Löschen & Co. und klare Gruppen",
- "file": "https://raw.githubusercontent.com/Nouudj/capmap-updates/main/CapMap-Update-0.9.7.4.exe",
- "sha256": "94c74b5af40b0bec29c148123515e755a630675367c7cd7af182354ee7fd1770",
- "size": 76062369,
+ "version": "0.9.7.5",
+ "notes": "Flüssiger: Editor rechnet nicht mehr im Hintergrund, unsichtbare Animationen pausieren",
+ "file": "https://raw.githubusercontent.com/Nouudj/capmap-updates/main/CapMap-Update-0.9.7.5.exe",
+ "sha256": "6655ceb312f6b1fef4f89ae7a569eda4061641291b551fa4d0f0390db6b31e62",
+ "size": 76061994,
  "mac": {
-  "file": "https://raw.githubusercontent.com/Nouudj/capmap-updates/main/CapMap-Mac-Update-0.9.7.4.zip",
-  "sha256": "d8a3d484fd04c3fa0bd0d350539e7a44f4dacccac27aa60d0fce80d0a85a2fbe",
-  "size": 77167926,
+  "file": "https://raw.githubusercontent.com/Nouudj/capmap-updates/main/CapMap-Mac-Update-0.9.7.5.zip",
+  "sha256": "9a642c3127f59ca12aa8844c06e2628bd797eaae05254b356987bdfcfdb421d5",
+  "size": 77168535,
   "minApp": "0.8.1"
  },
  "delta": {
