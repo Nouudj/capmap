@@ -1,13 +1,13 @@
 {
- "version": "0.9.7.7",
- "notes": "ClipMap: Videos direkt per YouTube-Link laden",
- "file": "https://raw.githubusercontent.com/Nouudj/capmap-updates/main/CapMap-Update-0.9.7.7.exe",
- "sha256": "6a6a903ca423c8944bb51108bf6b5dc2321589b9dec72d8d087fab2ca318f17f",
- "size": 76066713,
+ "version": "0.9.7.8",
+ "notes": "Neues CapMap-Logo · YouTube-Links in ClipMap zeigen jetzt immer ein Bild",
+ "file": "https://raw.githubusercontent.com/Nouudj/capmap-updates/main/CapMap-Update-0.9.7.8.exe",
+ "sha256": "8cd474e5a249b6681fad4f15ee08b8b41daff189ed1e557b3621cd8d40e50fc8",
+ "size": 76373034,
  "mac": {
-  "file": "https://raw.githubusercontent.com/Nouudj/capmap-updates/main/CapMap-Mac-Update-0.9.7.7.zip",
-  "sha256": "c8e1932f8381f62e9c61458d981d184e0e586d7388687b1c6b5a03367549313a",
-  "size": 77170200,
+  "file": "https://raw.githubusercontent.com/Nouudj/capmap-updates/main/CapMap-Mac-Update-0.9.7.8.zip",
+  "sha256": "d61b297c90f2423acb2f2eb0848f18a5bcd6f7db179c5b77a2ff768041dbc865",
+  "size": 77440455,
   "minApp": "0.8.1"
  },
  "delta": {
