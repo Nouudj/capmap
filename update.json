@@ -1,13 +1,13 @@
 {
- "version": "0.9.7.8",
- "notes": "Neues CapMap-Logo · YouTube-Links in ClipMap zeigen jetzt immer ein Bild",
- "file": "https://raw.githubusercontent.com/Nouudj/capmap-updates/main/CapMap-Update-0.9.7.8.exe",
- "sha256": "8cd474e5a249b6681fad4f15ee08b8b41daff189ed1e557b3621cd8d40e50fc8",
- "size": 76373034,
+ "version": "0.9.7.9",
+ "notes": "Desktop-Verknüpfungen zeigen jetzt auch das neue Logo",
+ "file": "https://raw.githubusercontent.com/Nouudj/capmap-updates/main/CapMap-Update-0.9.7.9.exe",
+ "sha256": "32fd571774f33fcb15389a1d4b2401c5089fdf8f3cf2db8060e837f32615d411",
+ "size": 76360414,
  "mac": {
-  "file": "https://raw.githubusercontent.com/Nouudj/capmap-updates/main/CapMap-Mac-Update-0.9.7.8.zip",
-  "sha256": "d61b297c90f2423acb2f2eb0848f18a5bcd6f7db179c5b77a2ff768041dbc865",
-  "size": 77440455,
+  "file": "https://raw.githubusercontent.com/Nouudj/capmap-updates/main/CapMap-Mac-Update-0.9.7.9.zip",
+  "sha256": "2b9b1ffa48326807d2b38b83cc27fdb1525a5dcdec0d24bac9f386732094df7b",
+  "size": 77440982,
   "minApp": "0.8.1"
  },
  "delta": {
