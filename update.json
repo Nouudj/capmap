@@ -1,13 +1,13 @@
 {
- "version": "0.9.7.6",
- "notes": "Jedes Farb-Design hat jetzt einen eigenen Neon-Farbverlauf",
- "file": "https://raw.githubusercontent.com/Nouudj/capmap-updates/main/CapMap-Update-0.9.7.6.exe",
- "sha256": "337862f356ad77c44d08829f12d0683ff72e95cc9ff348acba63000cdf04f2d3",
- "size": 76078474,
+ "version": "0.9.7.7",
+ "notes": "ClipMap: Videos direkt per YouTube-Link laden",
+ "file": "https://raw.githubusercontent.com/Nouudj/capmap-updates/main/CapMap-Update-0.9.7.7.exe",
+ "sha256": "6a6a903ca423c8944bb51108bf6b5dc2321589b9dec72d8d087fab2ca318f17f",
+ "size": 76066713,
  "mac": {
-  "file": "https://raw.githubusercontent.com/Nouudj/capmap-updates/main/CapMap-Mac-Update-0.9.7.6.zip",
-  "sha256": "d84fa4bf1c91041ff7ea42e41c59016490241a7bba4ffb2a9bac3ef2acd5efe5",
-  "size": 77169640,
+  "file": "https://raw.githubusercontent.com/Nouudj/capmap-updates/main/CapMap-Mac-Update-0.9.7.7.zip",
+  "sha256": "c8e1932f8381f62e9c61458d981d184e0e586d7388687b1c6b5a03367549313a",
+  "size": 77170200,
   "minApp": "0.8.1"
  },
  "delta": {
