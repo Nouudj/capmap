@@ -1,13 +1,13 @@
 {
- "version": "0.9.8.2",
- "notes": "Begrüßung und Startseite laufen deutlich flüssiger",
- "file": "https://raw.githubusercontent.com/Nouudj/capmap-updates/main/CapMap-Update-0.9.8.2.exe",
- "sha256": "ef8d916c2273a8933f0038501ad5aace77d25d67bae944afd541823216157ae1",
- "size": 76375764,
+ "version": "0.9.8.3",
+ "notes": "Rahmen, Leuchten und Symbol-Kacheln folgen jetzt der Farbe des gewählten Designs",
+ "file": "https://raw.githubusercontent.com/Nouudj/capmap-updates/main/CapMap-Update-0.9.8.3.exe",
+ "sha256": "c06964bc599f86bb01a496f851dbda1b2b4c20139afc7bf4f2e91dceb1e9508e",
+ "size": 76367549,
  "mac": {
-  "file": "https://raw.githubusercontent.com/Nouudj/capmap-updates/main/CapMap-Mac-Update-0.9.8.2.zip",
-  "sha256": "96cba41caf5fc0698cf9cb7ebc8e812b3cf0313c5f4cc3755c9d221590646709",
-  "size": 77444270,
+  "file": "https://raw.githubusercontent.com/Nouudj/capmap-updates/main/CapMap-Mac-Update-0.9.8.3.zip",
+  "sha256": "1a6804ca95fe1ef817424497960b1b30c3308aea4eac5fecbb5f64bd10a57b06",
+  "size": 77444544,
   "minApp": "0.8.1"
  },
  "delta": {
