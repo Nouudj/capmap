@@ -1,13 +1,13 @@
 {
- "version": "0.9.8.3",
- "notes": "Rahmen, Leuchten und Symbol-Kacheln folgen jetzt der Farbe des gewählten Designs",
- "file": "https://raw.githubusercontent.com/Nouudj/capmap-updates/main/CapMap-Update-0.9.8.3.exe",
- "sha256": "c06964bc599f86bb01a496f851dbda1b2b4c20139afc7bf4f2e91dceb1e9508e",
- "size": 76367549,
+ "version": "0.9.8.4",
+ "notes": "CapMap braucht jetzt einen Lizenzschlüssel – Freischalten beim Start, Optionen → Lizenz",
+ "file": "https://raw.githubusercontent.com/Nouudj/capmap-updates/main/CapMap-Update-0.9.8.4.exe",
+ "sha256": "ff142e61313930c19916cc38b2ec7b891bbdf6f631e6d16223ff8a107231dd4f",
+ "size": 76377189,
  "mac": {
-  "file": "https://raw.githubusercontent.com/Nouudj/capmap-updates/main/CapMap-Mac-Update-0.9.8.3.zip",
-  "sha256": "1a6804ca95fe1ef817424497960b1b30c3308aea4eac5fecbb5f64bd10a57b06",
-  "size": 77444544,
+  "file": "https://raw.githubusercontent.com/Nouudj/capmap-updates/main/CapMap-Mac-Update-0.9.8.4.zip",
+  "sha256": "08a427a3432d8298bf579155e64d09d53f82422b87534f4a5a587d2507c4067e",
+  "size": 77452188,
   "minApp": "0.8.1"
  },
  "delta": {
