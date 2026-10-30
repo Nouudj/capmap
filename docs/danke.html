@@ -1,0 +1,103 @@
+<!doctype html>
+<html lang="de">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<meta name="description" content="Danke für deinen Kauf – so schaltest du CapMap frei">
+<meta name="description" content="CapMap – der Video-Editor für Shorts, Reels und YouTube. Läuft auf deinem Rechner, deine Videos bleiben bei dir.">
+<meta name="theme-color" content="#000000">
+<link rel="icon" href="favicon.svg" type="image/svg+xml"><link rel="icon" href="favicon-32.png" sizes="32x32" type="image/png"><link rel="apple-touch-icon" href="apple-touch-icon.png">
+<title>Danke – CapMap</title>
+<link rel="icon" href="favicon.svg" type="image/svg+xml"><link rel="icon" href="favicon-32.png" sizes="32x32" type="image/png"><link rel="apple-touch-icon" href="apple-touch-icon.png">
+<style>
+/* Layout: Apple-style product page — sticky glass nav, centered giant type, alternating light / black bands, one big product shot per band, bento grid of features */
+:root{
+  --bg:#fbfbfd; --bg-alt:#f2f2f6; --fg:#1d1d1f; --muted:#6e6e73; --line:#d9d9e0; --link:#0066cc; --tile:#ffffff;
+  --night:#000; --night-2:#0d0d10; --night-fg:#f5f5f7; --night-muted:#a1a1a6; --night-line:#26262c;
+  --grad:linear-gradient(90deg,#8a7bff 0%,#c86cff 38%,#ff4fd8 66%,#ff9a5c 100%);
+  --glow:rgba(160,110,255,.35);
+  --f-display:-apple-system,BlinkMacSystemFont,"SF Pro Display","Segoe UI Variable Display","Segoe UI",system-ui,sans-serif;
+  --f-text:-apple-system,BlinkMacSystemFont,"SF Pro Text","Segoe UI Variable Text","Segoe UI",system-ui,sans-serif;
+  --f-mono:ui-monospace,"SF Mono","Cascadia Mono",Menlo,monospace;
+  --nav:rgba(251,251,253,.72);
+}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){--bg:#000;--bg-alt:#0e0e11;--fg:#f5f5f7;--muted:#a1a1a6;--line:#2a2a30;--link:#2997ff;--tile:#141418;--nav:rgba(0,0,0,.66);color-scheme:dark}}
+:root[data-theme="dark"]{--bg:#000;--bg-alt:#0e0e11;--fg:#f5f5f7;--muted:#a1a1a6;--line:#2a2a30;--link:#2997ff;--tile:#141418;--nav:rgba(0,0,0,.66);color-scheme:dark}
+*{box-sizing:border-box}
+html{scroll-behavior:smooth}
+body{background:var(--bg);color:var(--fg);font:17px/1.47 var(--f-text);letter-spacing:-.022em;-webkit-font-smoothing:antialiased;overflow-x:hidden}
+body::before{content:"";position:fixed;inset:0 0 auto;height:env(safe-area-inset-top,0px);z-index:60;background:var(--nav)}
+a{color:var(--link);text-decoration:none}a:hover{text-decoration:underline}
+:focus-visible{outline:2px solid #2997ff;outline-offset:3px;border-radius:6px}
+.wrap{max-width:1080px;margin:0 auto;padding-left:max(22px,env(safe-area-inset-left,0px));padding-right:max(22px,env(safe-area-inset-right,0px))}
+h1,h2,h3{font-family:var(--f-display);margin:0;text-wrap:balance}
+.grad{background:var(--grad);-webkit-background-clip:text;background-clip:text;color:transparent}
+.eyebrow{font-size:clamp(17px,2vw,21px);font-weight:600;letter-spacing:-.01em;margin:0 0 6px}
+.lead{font-size:clamp(19px,2.2vw,24px);line-height:1.38;color:var(--muted);font-weight:500;max-width:34ch;margin:14px auto 0}
+.btns{display:flex;gap:14px;justify-content:center;flex-wrap:wrap;margin-top:26px}
+.btn{display:inline-flex;align-items:center;gap:8px;height:44px;padding:0 22px;border-radius:999px;font-size:17px;font-weight:500;letter-spacing:-.01em;border:0;cursor:pointer;transition:transform .2s,filter .2s}
+.btn:hover{text-decoration:none;filter:brightness(1.08)}.btn:active{transform:scale(.98)}
+.btn.pri{background:#0071e3;color:#fff}
+.btn.sec{background:transparent;color:var(--link);box-shadow:inset 0 0 0 1.5px currentColor}
+.btn svg{width:18px;height:18px}
+.more{font-size:clamp(17px,1.8vw,19px)}.more::after{content:" ›"}
+
+/* nav */
+.nav{position:sticky;top:env(safe-area-inset-top,0px);z-index:50;background:var(--nav);backdrop-filter:saturate(180%) blur(20px);-webkit-backdrop-filter:saturate(180%) blur(20px);border-bottom:1px solid color-mix(in srgb,var(--line) 60%,transparent)}
+.nav .wrap{display:flex;align-items:center;gap:26px;height:52px}
+.brand{display:flex;align-items:center;gap:8px;color:var(--fg);font:600 19px/1 var(--f-display);letter-spacing:-.02em}.brand:hover{text-decoration:none}
+.brand svg{width:22px;height:22px}
+.nav nav{display:flex;gap:24px;margin-left:auto;font-size:13px}.nav nav a{color:var(--fg);opacity:.8}.nav nav a:hover{opacity:1;text-decoration:none}
+.nav .btn{height:30px;padding:0 14px;font-size:13px}
+@media (max-width:760px){.nav nav{display:none}.nav .btn{margin-left:auto}}
+
+footer{background:var(--bg-alt);border-top:1px solid var(--line);padding-block:26px;font-size:12px;color:var(--muted)}
+footer .wrap{display:flex;justify-content:space-between;gap:16px;flex-wrap:wrap}
+.legal{padding-block:72px 96px}
+.legal .wrap{max-width:760px}
+.legal h1{font-size:clamp(40px,6vw,64px);letter-spacing:-.045em;font-weight:700;line-height:1.04;margin-bottom:8px}
+.legal .sub{color:var(--muted);font-size:19px;margin:0 0 40px}
+.legal h2{font-size:22px;letter-spacing:-.02em;margin:36px 0 10px}
+.legal h3{font-size:17px;letter-spacing:-.01em;margin:22px 0 6px}
+.legal p,.legal li{color:var(--fg);font-size:17px;line-height:1.55;margin:0 0 10px}
+.legal ul{padding-left:20px;margin:0 0 10px}
+.legal .card{background:var(--bg-alt);border-radius:22px;padding:26px 28px;margin:0 0 8px}
+.legal .card + .card{margin-top:10px}
+.legal .card p{margin:0}
+.legal .muted{color:var(--muted);font-size:15px}
+footer a{color:var(--muted)}footer a:hover{color:var(--fg)}
+.flinks{display:flex;gap:18px}
+</style>
+<header class="nav"><div class="wrap"><a class="brand" href="./" aria-label="CapMap"><svg viewBox="0 0 64 64" fill="none" aria-hidden="true"><defs><linearGradient id="lg" x1="0" x2="1" y1="0" y2="1"><stop offset="0" stop-color="#8a7bff"/><stop offset=".55" stop-color="#ff4fd8"/><stop offset="1" stop-color="#ff9a5c"/></linearGradient></defs><path d="M8 52V18a6 6 0 0 1 10.6-3.9L32 30l13.4-15.9A6 6 0 0 1 56 18v34" fill="none" stroke="url(#lg)" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/><path d="m27 41 12 7-12 7z" fill="#fff"/></svg>CapMap</a><nav aria-label="Seiten"><a href="./#reveal">Editor</a><a href="./#clipmap">ClipMap</a><a href="./#soon">Download</a></nav><a class="btn pri" href="./#soon">Holen</a></div></header>
+<main class="legal"><div class="wrap">
+<div lang="de" class="dk">
+<h1>Danke für deinen Kauf!</h1>
+<p class="sub">So schaltest du CapMap in zwei Minuten frei.</p>
+<h2>1. CapMap herunterladen</h2>
+<p>Lade CapMap für <a href="https://github.com/Nouudj/capmap/releases/latest/download/CapMap-Setup.exe">Windows</a>, <a href="https://github.com/Nouudj/capmap/releases/latest/download/CapMap-Mac-AppleSilicon.zip">Mac mit Apple Chip</a> oder <a href="https://github.com/Nouudj/capmap/releases/latest/download/CapMap-Mac-Intel.zip">Mac mit Intel</a>.</p>
+<h2>2. Installieren</h2>
+<div class="card"><p><b>Windows:</b> Öffne <i>CapMap-Setup.exe</i>. Zeigt Windows „Der Computer wurde durch Windows geschützt“, klicke auf <b>Weitere Informationen</b> und dann auf <b>Trotzdem ausführen</b>.</p></div>
+<div class="card"><p><b>Mac:</b> Entpacke die ZIP-Datei und ziehe <i>CapMap</i> in den Ordner <b>Programme</b>. Beim ersten Start: Rechtsklick auf CapMap → <b>Öffnen</b> → <b>Öffnen</b>. Klappt das nicht, gehe zu Systemeinstellungen → Datenschutz &amp; Sicherheit und klicke unten auf <b>Trotzdem öffnen</b>.</p></div>
+<h2>3. Freischalten</h2>
+<p>Beim ersten Start fragt CapMap nach deinem <b>Lizenzschlüssel</b>. Du findest ihn in der E-Mail zu deinem Kauf. Kopieren, einfügen, auf <b>Freischalten</b> klicken – fertig. Dein Schlüssel gilt auf zwei Geräten; unter Optionen → Lizenz kannst du ein Gerät wieder abmelden.</p>
+<h2>Hilfe</h2>
+<p>Etwas klappt nicht? Schreib mir an <a href="mailto:noahdjelassi00@gmail.com">noahdjelassi00@gmail.com</a> oder antworte einfach auf deine Kauf-E-Mail.</p>
+</div>
+<div lang="en" class="dk" hidden>
+<h1>Thanks for your purchase!</h1>
+<p class="sub">Here is how to unlock CapMap in two minutes.</p>
+<h2>1. Download CapMap</h2>
+<p>Get CapMap for <a href="https://github.com/Nouudj/capmap/releases/latest/download/CapMap-Setup.exe">Windows</a>, <a href="https://github.com/Nouudj/capmap/releases/latest/download/CapMap-Mac-AppleSilicon.zip">Mac with Apple chip</a> or <a href="https://github.com/Nouudj/capmap/releases/latest/download/CapMap-Mac-Intel.zip">Mac with Intel</a>.</p>
+<h2>2. Install</h2>
+<div class="card"><p><b>Windows:</b> Open <i>CapMap-Setup.exe</i>. If Windows says “Windows protected your PC”, click <b>More info</b> and then <b>Run anyway</b>.</p></div>
+<div class="card"><p><b>Mac:</b> Unzip the file and drag <i>CapMap</i> into your <b>Applications</b> folder. On first launch: right-click CapMap → <b>Open</b> → <b>Open</b>. If that does not work, go to System Settings → Privacy &amp; Security and click <b>Open Anyway</b>.</p></div>
+<h2>3. Unlock</h2>
+<p>On first launch CapMap asks for your <b>license key</b>. You will find it in your purchase email. Copy, paste, click <b>Unlock</b> – done. Your key works on two devices; under Options → License you can sign a device out again.</p>
+<h2>Help</h2>
+<p>Something not working? Email me at <a href="mailto:noahdjelassi00@gmail.com">noahdjelassi00@gmail.com</a> or simply reply to your purchase email.</p>
+</div>
+<script>if(!/^de/i.test(navigator.language||'de')){document.querySelector('.dk[lang=de]').hidden=true;document.querySelector('.dk[lang=en]').hidden=false;document.documentElement.lang='en';document.title='Thank you – CapMap';}</script>
+</div></main>
+<footer><div class="wrap"><span>CapMap ist ein unabhängiges Projekt.</span><span class="flinks"><a href="impressum.html">Impressum</a><a href="datenschutz.html">Datenschutz</a></span></div></footer>
+</body>
+</html>
