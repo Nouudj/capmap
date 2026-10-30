@@ -1,13 +1,13 @@
 {
- "version": "0.9.8.1",
- "notes": "Neuer Startbildschirm im Kino-Look · Polarlicht & Funken als Startseiten-Hintergrund (Optionen)",
- "file": "https://raw.githubusercontent.com/Nouudj/capmap-updates/main/CapMap-Update-0.9.8.1.exe",
- "sha256": "c9e7c1191cd4a3f6db7e1da1a6e4e0c3c81c599981f3a99b9fcf6e613f82e04b",
- "size": 76378323,
+ "version": "0.9.8.2",
+ "notes": "Begrüßung und Startseite laufen deutlich flüssiger",
+ "file": "https://raw.githubusercontent.com/Nouudj/capmap-updates/main/CapMap-Update-0.9.8.2.exe",
+ "sha256": "ef8d916c2273a8933f0038501ad5aace77d25d67bae944afd541823216157ae1",
+ "size": 76375764,
  "mac": {
-  "file": "https://raw.githubusercontent.com/Nouudj/capmap-updates/main/CapMap-Mac-Update-0.9.8.1.zip",
-  "sha256": "568801cee9f9c16d76e9c4a9a245f8b18c5f18092fce662d4b9bb537744f4ebb",
-  "size": 77443977,
+  "file": "https://raw.githubusercontent.com/Nouudj/capmap-updates/main/CapMap-Mac-Update-0.9.8.2.zip",
+  "sha256": "96cba41caf5fc0698cf9cb7ebc8e812b3cf0313c5f4cc3755c9d221590646709",
+  "size": 77444270,
   "minApp": "0.8.1"
  },
  "delta": {
