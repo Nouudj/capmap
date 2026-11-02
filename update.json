@@ -1,13 +1,13 @@
 {
- "version": "0.9.8.5",
- "notes": "Genaueres Untertitel-Timing, flüssigere Schnitte, Farbrad im Profi-Stil, eigene Geschwindigkeit, Text ohne Einblendung, mit Claude sprechen",
- "file": "https://raw.githubusercontent.com/Nouudj/capmap-updates/main/CapMap-Update-0.9.8.5.exe",
- "sha256": "27275bb097e88ae79a6bfb5dd83e2404f4c6a676d008c3901a227dc492b91045",
- "size": 76391859,
+ "version": "0.9.8.6",
+ "notes": "Stimmen im Claude-Fenster deutlicher gekennzeichnet: In CapMap enthalten / VoiceStudio",
+ "file": "https://raw.githubusercontent.com/Nouudj/capmap-updates/main/CapMap-Update-0.9.8.6.exe",
+ "sha256": "c644744483dc224d5e02139904f44dd57d03c2491622e2bfb741da6a56c63e3e",
+ "size": 76373837,
  "mac": {
-  "file": "https://raw.githubusercontent.com/Nouudj/capmap-updates/main/CapMap-Mac-Update-0.9.8.5.zip",
-  "sha256": "81206117d35a708c9d33f0195917cadd3043d9e7570e5495b63a271a9febcf21",
-  "size": 77461512,
+  "file": "https://raw.githubusercontent.com/Nouudj/capmap-updates/main/CapMap-Mac-Update-0.9.8.6.zip",
+  "sha256": "a12c9083f4ea6eb1983a776d7ad55c3b8ffe1544341a7d2ca6f54b8ff774e44d",
+  "size": 77461642,
   "minApp": "0.8.1"
  },
  "delta": {
