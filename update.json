@@ -1,13 +1,13 @@
 {
- "version": "0.9.8.4",
- "notes": "CapMap braucht jetzt einen Lizenzschlüssel – Freischalten beim Start, Optionen → Lizenz",
- "file": "https://raw.githubusercontent.com/Nouudj/capmap-updates/main/CapMap-Update-0.9.8.4.exe",
- "sha256": "ff142e61313930c19916cc38b2ec7b891bbdf6f631e6d16223ff8a107231dd4f",
- "size": 76377189,
+ "version": "0.9.8.5",
+ "notes": "Genaueres Untertitel-Timing, flüssigere Schnitte, Farbrad im Profi-Stil, eigene Geschwindigkeit, Text ohne Einblendung, mit Claude sprechen",
+ "file": "https://raw.githubusercontent.com/Nouudj/capmap-updates/main/CapMap-Update-0.9.8.5.exe",
+ "sha256": "27275bb097e88ae79a6bfb5dd83e2404f4c6a676d008c3901a227dc492b91045",
+ "size": 76391859,
  "mac": {
-  "file": "https://raw.githubusercontent.com/Nouudj/capmap-updates/main/CapMap-Mac-Update-0.9.8.4.zip",
-  "sha256": "08a427a3432d8298bf579155e64d09d53f82422b87534f4a5a587d2507c4067e",
-  "size": 77452188,
+  "file": "https://raw.githubusercontent.com/Nouudj/capmap-updates/main/CapMap-Mac-Update-0.9.8.5.zip",
+  "sha256": "81206117d35a708c9d33f0195917cadd3043d9e7570e5495b63a271a9febcf21",
+  "size": 77461512,
   "minApp": "0.8.1"
  },
  "delta": {
