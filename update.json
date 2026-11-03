@@ -1,13 +1,13 @@
 {
- "version": "0.9.8.9",
- "notes": "Stimme verbessern (KI entfernt Rauschen und Hall), CapMap auf Englisch, Kalender zum Planen von Beiträgen, Export in H.265, Fehler melden und „Was ist neu“.",
- "file": "https://raw.githubusercontent.com/Nouudj/capmap-updates/main/CapMap-Update-0.9.8.9.exe",
- "sha256": "f7faf4f3427f502750f5d761de1bb25db3568a31d813938c5aad98dfef91eff7",
- "size": 85042668,
+ "version": "0.9.9.0",
+ "notes": "Papierkorb in der Bibliothek im Glas-Look (kein dunkler Balken mehr).",
+ "file": "https://raw.githubusercontent.com/Nouudj/capmap-updates/main/CapMap-Update-0.9.9.0.exe",
+ "sha256": "90a08ed43a847ead63df43b99d7e4f4519c3bf568d8d31f4f85d98e329b0f237",
+ "size": 85039266,
  "mac": {
-  "file": "https://raw.githubusercontent.com/Nouudj/capmap-updates/main/CapMap-Mac-Update-0.9.8.9.zip",
-  "sha256": "fe631041b13a7da5b2354d26eefb7e5f40cfe811e3fa98f35824f085e7bdc62c",
-  "size": 87040596,
+  "file": "https://raw.githubusercontent.com/Nouudj/capmap-updates/main/CapMap-Mac-Update-0.9.9.0.zip",
+  "sha256": "991438314e772e905329db71e9796590048970e5cd1886535b66db48aa48c135",
+  "size": 87040720,
   "minApp": "0.8.1"
  },
  "delta": {
