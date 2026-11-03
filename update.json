@@ -1,13 +1,13 @@
 {
- "version": "0.9.8.6",
- "notes": "Stimmen im Claude-Fenster deutlicher gekennzeichnet: In CapMap enthalten / VoiceStudio",
- "file": "https://raw.githubusercontent.com/Nouudj/capmap-updates/main/CapMap-Update-0.9.8.6.exe",
- "sha256": "c644744483dc224d5e02139904f44dd57d03c2491622e2bfb741da6a56c63e3e",
- "size": 76373837,
+ "version": "0.9.8.7",
+ "notes": "Startseite im Glas-Look: edle Einblendung beim Öffnen, Milchglas-Karten, gleitende Markierung zu ClipMap, neue Vorlagen-Bilder",
+ "file": "https://raw.githubusercontent.com/Nouudj/capmap-updates/main/CapMap-Update-0.9.8.7.exe",
+ "sha256": "fd598e9110ad2580b9c928a835bb1ec7767b76e696f69b2101c324e4a83b256d",
+ "size": 76382339,
  "mac": {
-  "file": "https://raw.githubusercontent.com/Nouudj/capmap-updates/main/CapMap-Mac-Update-0.9.8.6.zip",
-  "sha256": "a12c9083f4ea6eb1983a776d7ad55c3b8ffe1544341a7d2ca6f54b8ff774e44d",
-  "size": 77461642,
+  "file": "https://raw.githubusercontent.com/Nouudj/capmap-updates/main/CapMap-Mac-Update-0.9.8.7.zip",
+  "sha256": "826586a5baddf54a13fc162c4b0f6ac7931cf16acd10ece0288b5192bfd19eb4",
+  "size": 77463893,
   "minApp": "0.8.1"
  },
  "delta": {
