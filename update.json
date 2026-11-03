@@ -1,13 +1,13 @@
 {
- "version": "0.9.8.8",
- "notes": "Editor im Glas-Look, gleitende Markierung in allen Reitern und im Inspektor, Übergänge jetzt auch für Text",
- "file": "https://raw.githubusercontent.com/Nouudj/capmap-updates/main/CapMap-Update-0.9.8.8.exe",
- "sha256": "b7810462a968081f7427930e66b76ddb65756e3613b023da6a4459e48b1abadd",
- "size": 76391502,
+ "version": "0.9.8.9",
+ "notes": "Stimme verbessern (KI entfernt Rauschen und Hall), CapMap auf Englisch, Kalender zum Planen von Beiträgen, Export in H.265, Fehler melden und „Was ist neu“.",
+ "file": "https://raw.githubusercontent.com/Nouudj/capmap-updates/main/CapMap-Update-0.9.8.9.exe",
+ "sha256": "f7faf4f3427f502750f5d761de1bb25db3568a31d813938c5aad98dfef91eff7",
+ "size": 85042668,
  "mac": {
-  "file": "https://raw.githubusercontent.com/Nouudj/capmap-updates/main/CapMap-Mac-Update-0.9.8.8.zip",
-  "sha256": "39f886d7cc3883894df414c80aeca40482d7df3241eac6169749fe5bcffc69b5",
-  "size": 77468105,
+  "file": "https://raw.githubusercontent.com/Nouudj/capmap-updates/main/CapMap-Mac-Update-0.9.8.9.zip",
+  "sha256": "fe631041b13a7da5b2354d26eefb7e5f40cfe811e3fa98f35824f085e7bdc62c",
+  "size": 87040596,
   "minApp": "0.8.1"
  },
  "delta": {
