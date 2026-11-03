@@ -1,13 +1,13 @@
 {
- "version": "0.9.8.7",
- "notes": "Startseite im Glas-Look: edle Einblendung beim Öffnen, Milchglas-Karten, gleitende Markierung zu ClipMap, neue Vorlagen-Bilder",
- "file": "https://raw.githubusercontent.com/Nouudj/capmap-updates/main/CapMap-Update-0.9.8.7.exe",
- "sha256": "fd598e9110ad2580b9c928a835bb1ec7767b76e696f69b2101c324e4a83b256d",
- "size": 76382339,
+ "version": "0.9.8.8",
+ "notes": "Editor im Glas-Look, gleitende Markierung in allen Reitern und im Inspektor, Übergänge jetzt auch für Text",
+ "file": "https://raw.githubusercontent.com/Nouudj/capmap-updates/main/CapMap-Update-0.9.8.8.exe",
+ "sha256": "b7810462a968081f7427930e66b76ddb65756e3613b023da6a4459e48b1abadd",
+ "size": 76391502,
  "mac": {
-  "file": "https://raw.githubusercontent.com/Nouudj/capmap-updates/main/CapMap-Mac-Update-0.9.8.7.zip",
-  "sha256": "826586a5baddf54a13fc162c4b0f6ac7931cf16acd10ece0288b5192bfd19eb4",
-  "size": 77463893,
+  "file": "https://raw.githubusercontent.com/Nouudj/capmap-updates/main/CapMap-Mac-Update-0.9.8.8.zip",
+  "sha256": "39f886d7cc3883894df414c80aeca40482d7df3241eac6169749fe5bcffc69b5",
+  "size": 77468105,
   "minApp": "0.8.1"
  },
  "delta": {
