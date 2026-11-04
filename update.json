@@ -1,13 +1,13 @@
 {
- "version": "0.9.9.0",
- "notes": "Papierkorb in der Bibliothek im Glas-Look (kein dunkler Balken mehr).",
- "file": "https://raw.githubusercontent.com/Nouudj/capmap-updates/main/CapMap-Update-0.9.9.0.exe",
- "sha256": "90a08ed43a847ead63df43b99d7e4f4519c3bf568d8d31f4f85d98e329b0f237",
- "size": 85039266,
+ "version": "0.9.9.1",
+ "notes": "Effekte mit Einstellungen: Unschärfe ohne Rand und mit Art (Weich, Stark, Bewegung, Verträumt), Tempo und Maske für alle Effekte.",
+ "file": "https://raw.githubusercontent.com/Nouudj/capmap-updates/main/CapMap-Update-0.9.9.1.exe",
+ "sha256": "c9ae31109e60403d6f94f439b141e3b2bff9b55d3004bebc74006f8a6fea2600",
+ "size": 85042442,
  "mac": {
-  "file": "https://raw.githubusercontent.com/Nouudj/capmap-updates/main/CapMap-Mac-Update-0.9.9.0.zip",
-  "sha256": "991438314e772e905329db71e9796590048970e5cd1886535b66db48aa48c135",
-  "size": 87040720,
+  "file": "https://raw.githubusercontent.com/Nouudj/capmap-updates/main/CapMap-Mac-Update-0.9.9.1.zip",
+  "sha256": "5d46ad1e76b2bea5289385509726173813ca08fb1c49c1620d34aabddcf67af3",
+  "size": 87042061,
   "minApp": "0.8.1"
  },
  "delta": {
