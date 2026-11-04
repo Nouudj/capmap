@@ -1,13 +1,13 @@
 {
- "version": "0.9.9.6",
- "notes": "ClipMap: YouTube-Videos, die nicht starten, werden zuerst in Sekunden neu verpackt statt minutenlang umgewandelt.",
- "file": "https://raw.githubusercontent.com/Nouudj/capmap-updates/main/CapMap-Update-0.9.9.6.exe",
- "sha256": "c3bf1694119c78a66614307e3110710d076bb4ab946e832ab09c9bd52fbb9771",
- "size": 85050983,
+ "version": "0.9.9.7",
+ "notes": "Ganze Ordner per Ziehen und Ablegen importieren: Soundeffekt-Ordner landen mit Unterordnern unter „Deine Soundeffekte“.",
+ "file": "https://raw.githubusercontent.com/Nouudj/capmap-updates/main/CapMap-Update-0.9.9.7.exe",
+ "sha256": "72989cf5758a8386b2f946a347ace47c3640755e0124bcde1730680d7d1b8957",
+ "size": 85052945,
  "mac": {
-  "file": "https://raw.githubusercontent.com/Nouudj/capmap-updates/main/CapMap-Mac-Update-0.9.9.6.zip",
-  "sha256": "37174a571db036e874ef59f904daef721233b29d8e422ec0af6714f83ebd61e9",
-  "size": 87043787,
+  "file": "https://raw.githubusercontent.com/Nouudj/capmap-updates/main/CapMap-Mac-Update-0.9.9.7.zip",
+  "sha256": "fc9c1b957ce11c9d8c39a1f2590eb0a1355a39f7a79efad1f6214d58f2422b32",
+  "size": 87044577,
   "minApp": "0.8.1"
  },
  "delta": {
