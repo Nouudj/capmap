@@ -1,13 +1,13 @@
 {
- "version": "0.9.9.5",
- "notes": "ClipMap zeigt beim Umwandeln den genauen Grund an (Diagnose).",
- "file": "https://raw.githubusercontent.com/Nouudj/capmap-updates/main/CapMap-Update-0.9.9.5.exe",
- "sha256": "2893f9dfc17661bf6b4171eb255a9895e498edb6cf800a0a4606c524f55ca444",
- "size": 85033214,
+ "version": "0.9.9.6",
+ "notes": "ClipMap: YouTube-Videos, die nicht starten, werden zuerst in Sekunden neu verpackt statt minutenlang umgewandelt.",
+ "file": "https://raw.githubusercontent.com/Nouudj/capmap-updates/main/CapMap-Update-0.9.9.6.exe",
+ "sha256": "c3bf1694119c78a66614307e3110710d076bb4ab946e832ab09c9bd52fbb9771",
+ "size": 85050983,
  "mac": {
-  "file": "https://raw.githubusercontent.com/Nouudj/capmap-updates/main/CapMap-Mac-Update-0.9.9.5.zip",
-  "sha256": "e923d05afa063df96a183b4494be86e2321dcb352f0e360bdca94a2a7d44e73a",
-  "size": 87043370,
+  "file": "https://raw.githubusercontent.com/Nouudj/capmap-updates/main/CapMap-Mac-Update-0.9.9.6.zip",
+  "sha256": "37174a571db036e874ef59f904daef721233b29d8e422ec0af6714f83ebd61e9",
+  "size": 87043787,
   "minApp": "0.8.1"
  },
  "delta": {
