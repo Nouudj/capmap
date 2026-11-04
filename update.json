@@ -1,13 +1,13 @@
 {
- "version": "0.9.9.3",
- "notes": "ClipMap: große Videos werden nicht mehr unnötig umgewandelt; langer Dateiname im Umwandeln-Fenster bricht um.",
- "file": "https://raw.githubusercontent.com/Nouudj/capmap-updates/main/CapMap-Update-0.9.9.3.exe",
- "sha256": "18d37b5f996c111ca6227f32117575885e87bf0a5d005d83b25a9a7062426e70",
- "size": 85033930,
+ "version": "0.9.9.4",
+ "notes": "Videos von Links laufen direkt von der Festplatte: auch sehr große Dateien öffnen ohne Umwandeln.",
+ "file": "https://raw.githubusercontent.com/Nouudj/capmap-updates/main/CapMap-Update-0.9.9.4.exe",
+ "sha256": "a9ac1f74c913fce566a53e056b8fc4da735088fb4889b6ec1c2ab8b73be321fd",
+ "size": 85042204,
  "mac": {
-  "file": "https://raw.githubusercontent.com/Nouudj/capmap-updates/main/CapMap-Mac-Update-0.9.9.3.zip",
-  "sha256": "62e57a3fe5b99e9cdb880ec661d46e62b27062f251f9e95eb283a5dfc563008f",
-  "size": 87042474,
+  "file": "https://raw.githubusercontent.com/Nouudj/capmap-updates/main/CapMap-Mac-Update-0.9.9.4.zip",
+  "sha256": "c3f456fa35f0ff1c4a582a06206695e38911d049be7409fb8c6002a04e70ae77",
+  "size": 87043139,
   "minApp": "0.8.1"
  },
  "delta": {
