@@ -1,13 +1,13 @@
 {
- "version": "0.9.9.1",
- "notes": "Effekte mit Einstellungen: Unschärfe ohne Rand und mit Art (Weich, Stark, Bewegung, Verträumt), Tempo und Maske für alle Effekte.",
- "file": "https://raw.githubusercontent.com/Nouudj/capmap-updates/main/CapMap-Update-0.9.9.1.exe",
- "sha256": "c9ae31109e60403d6f94f439b141e3b2bff9b55d3004bebc74006f8a6fea2600",
- "size": 85042442,
+ "version": "0.9.9.2",
+ "notes": "ClipMap: Videos von Links lassen sich wieder umwandeln; bei Fehlern steht der Grund in der Meldung.",
+ "file": "https://raw.githubusercontent.com/Nouudj/capmap-updates/main/CapMap-Update-0.9.9.2.exe",
+ "sha256": "f6f6ccabf1a7544c94c66b84f1958a25c4b6c34b4b8fac4fb7ec3029c501e43d",
+ "size": 85054465,
  "mac": {
-  "file": "https://raw.githubusercontent.com/Nouudj/capmap-updates/main/CapMap-Mac-Update-0.9.9.1.zip",
-  "sha256": "5d46ad1e76b2bea5289385509726173813ca08fb1c49c1620d34aabddcf67af3",
-  "size": 87042061,
+  "file": "https://raw.githubusercontent.com/Nouudj/capmap-updates/main/CapMap-Mac-Update-0.9.9.2.zip",
+  "sha256": "c879cf118c3f17f0647d9805660717f82ad620b40f5963fe1b322e9367719e27",
+  "size": 87042378,
   "minApp": "0.8.1"
  },
  "delta": {
