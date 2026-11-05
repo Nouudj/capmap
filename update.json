@@ -1,13 +1,13 @@
 {
- "version": "0.9.9.7",
- "notes": "Ganze Ordner per Ziehen und Ablegen importieren: Soundeffekt-Ordner landen mit Unterordnern unter „Deine Soundeffekte“.",
- "file": "https://raw.githubusercontent.com/Nouudj/capmap-updates/main/CapMap-Update-0.9.9.7.exe",
- "sha256": "72989cf5758a8386b2f946a347ace47c3640755e0124bcde1730680d7d1b8957",
- "size": 85052945,
+ "version": "0.9.9.8",
+ "notes": "Neues warmes Standard-Design (Koralle statt Lila/Blau), das alte bleibt als „CapMap Klassik“ wählbar.",
+ "file": "https://raw.githubusercontent.com/Nouudj/capmap-updates/main/CapMap-Update-0.9.9.8.exe",
+ "sha256": "82247e3e4424d3a73bdf2ae59ddccbb2371358527609b4b8b9aea098522e18ed",
+ "size": 85049384,
  "mac": {
-  "file": "https://raw.githubusercontent.com/Nouudj/capmap-updates/main/CapMap-Mac-Update-0.9.9.7.zip",
-  "sha256": "fc9c1b957ce11c9d8c39a1f2590eb0a1355a39f7a79efad1f6214d58f2422b32",
-  "size": 87044577,
+  "file": "https://raw.githubusercontent.com/Nouudj/capmap-updates/main/CapMap-Mac-Update-0.9.9.8.zip",
+  "sha256": "854715e18ff3f9be4a52a70e58edbd21e479594886766c7ddfe103a4196ab51d",
+  "size": 87044994,
   "minApp": "0.8.1"
  },
  "delta": {
