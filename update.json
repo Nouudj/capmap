@@ -1,13 +1,13 @@
 {
- "version": "0.9.9.8",
- "notes": "Neues warmes Standard-Design (Koralle statt Lila/Blau), das alte bleibt als „CapMap Klassik“ wählbar.",
- "file": "https://raw.githubusercontent.com/Nouudj/capmap-updates/main/CapMap-Update-0.9.9.8.exe",
- "sha256": "82247e3e4424d3a73bdf2ae59ddccbb2371358527609b4b8b9aea098522e18ed",
- "size": 85049384,
+ "version": "0.9.9.9",
+ "notes": "Das CapMap-Logo nimmt jetzt die Farben des gewählten Designs an.",
+ "file": "https://raw.githubusercontent.com/Nouudj/capmap-updates/main/CapMap-Update-0.9.9.9.exe",
+ "sha256": "e5546ebeeb680b265ab8720b13025aaba9be026c52ded84ea901ed39ef5da402",
+ "size": 85054883,
  "mac": {
-  "file": "https://raw.githubusercontent.com/Nouudj/capmap-updates/main/CapMap-Mac-Update-0.9.9.8.zip",
-  "sha256": "854715e18ff3f9be4a52a70e58edbd21e479594886766c7ddfe103a4196ab51d",
-  "size": 87044994,
+  "file": "https://raw.githubusercontent.com/Nouudj/capmap-updates/main/CapMap-Mac-Update-0.9.9.9.zip",
+  "sha256": "9168926f41815fd6eb2ff899453df0af6aa812616cc090fc4cbeed8284fdc49c",
+  "size": 87045012,
   "minApp": "0.8.1"
  },
  "delta": {
