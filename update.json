@@ -1,13 +1,13 @@
 {
- "version": "0.9.9.9",
- "notes": "Das CapMap-Logo nimmt jetzt die Farben des gewählten Designs an.",
- "file": "https://raw.githubusercontent.com/Nouudj/capmap-updates/main/CapMap-Update-0.9.9.9.exe",
- "sha256": "e5546ebeeb680b265ab8720b13025aaba9be026c52ded84ea901ed39ef5da402",
- "size": 85054883,
+ "version": "0.9.9.10",
+ "notes": "Alpha 0.99.10: 16 neue Vorlagen + Favoriten, Auto-Emojis in Untertiteln, 22 Call-to-Action-Grafiken, 30 Musikstücke, 28 echte Soundeffekte",
+ "file": "https://raw.githubusercontent.com/Nouudj/capmap-updates/main/CapMap-Update-0.9.9.10.exe",
+ "sha256": "63294f46b394fedb12c523a8022dc2722da8663f1cc8aedd323bb4d67a3c6edb",
+ "size": 85293672,
  "mac": {
-  "file": "https://raw.githubusercontent.com/Nouudj/capmap-updates/main/CapMap-Mac-Update-0.9.9.9.zip",
-  "sha256": "9168926f41815fd6eb2ff899453df0af6aa812616cc090fc4cbeed8284fdc49c",
-  "size": 87045012,
+  "file": "https://raw.githubusercontent.com/Nouudj/capmap-updates/main/CapMap-Mac-Update-0.9.9.10.zip",
+  "sha256": "b60cc88844ba793c6d54a3738684f0a9a0b9212a015cfcca1c95c20ce6532dfb",
+  "size": 87310173,
   "minApp": "0.8.1"
  },
  "delta": {
