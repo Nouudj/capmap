@@ -1,13 +1,13 @@
 {
- "version": "0.9.9.10",
- "notes": "Alpha 0.99.10: 16 neue Vorlagen + Favoriten, Auto-Emojis in Untertiteln, 22 Call-to-Action-Grafiken, 30 Musikstücke, 28 echte Soundeffekte",
- "file": "https://raw.githubusercontent.com/Nouudj/capmap-updates/main/CapMap-Update-0.9.9.10.exe",
- "sha256": "63294f46b394fedb12c523a8022dc2722da8663f1cc8aedd323bb4d67a3c6edb",
- "size": 85293672,
+ "version": "0.9.9.11",
+ "notes": "Alpha 0.99.11: Vorlagen in ClipMap (Reiter + Favoriten, Hook im Titel), Platzhalter füllen sich aus dem Transkript, Speicherfehler bei mehreren Shorts behoben",
+ "file": "https://raw.githubusercontent.com/Nouudj/capmap-updates/main/CapMap-Update-0.9.9.11.exe",
+ "sha256": "c69d42aca23e8efc7feb84fb047d014b44ee09b76b3a715ecb750e1a41914218",
+ "size": 85299048,
  "mac": {
-  "file": "https://raw.githubusercontent.com/Nouudj/capmap-updates/main/CapMap-Mac-Update-0.9.9.10.zip",
-  "sha256": "b60cc88844ba793c6d54a3738684f0a9a0b9212a015cfcca1c95c20ce6532dfb",
-  "size": 87310173,
+  "file": "https://raw.githubusercontent.com/Nouudj/capmap-updates/main/CapMap-Mac-Update-0.9.9.11.zip",
+  "sha256": "68851c6e1ce61a99d6f41bceb1c4ff6b89c5c6533ba617d3bcb3b3655090e3c9",
+  "size": 87317148,
   "minApp": "0.8.1"
  },
  "delta": {
