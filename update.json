@@ -1,13 +1,13 @@
 {
- "version": "0.9.9.12",
- "notes": "Alpha 0.99.12: Layout & Vorlage in einem Bereich mit leuchtenden Vorlagen-Symbolen, Layout-Kacheln verschwinden nicht mehr nach dem Scrollen",
- "file": "https://raw.githubusercontent.com/Nouudj/capmap-updates/main/CapMap-Update-0.9.9.12.exe",
- "sha256": "ced50542704e81963ddf7703ac808b6ab56dea9def918530d26749134e526ab2",
- "size": 85304156,
+ "version": "0.9.9.13",
+ "notes": "Alpha 0.99.13: Favoriten-Stern in ClipMap-Kacheln zentriert und in Akzentfarbe",
+ "file": "https://raw.githubusercontent.com/Nouudj/capmap-updates/main/CapMap-Update-0.9.9.13.exe",
+ "sha256": "d989d09da060e008393f5037a74656ca1fc9c42631971fd6637694083e6eb11d",
+ "size": 85309375,
  "mac": {
-  "file": "https://raw.githubusercontent.com/Nouudj/capmap-updates/main/CapMap-Mac-Update-0.9.9.12.zip",
-  "sha256": "7b19853ea3d854d5e582288648d9b4db87266029a571e0df7cab66315d1c1065",
-  "size": 87319408,
+  "file": "https://raw.githubusercontent.com/Nouudj/capmap-updates/main/CapMap-Mac-Update-0.9.9.13.zip",
+  "sha256": "b0df9a28b97cc75007f5f77325d9ac3a3908cb7b9aa470404726f2aefba3a81a",
+  "size": 87319544,
   "minApp": "0.8.1"
  },
  "delta": {
