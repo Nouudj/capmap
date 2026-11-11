@@ -1,13 +1,13 @@
 {
- "version": "0.9.9.11",
- "notes": "Alpha 0.99.11: Vorlagen in ClipMap (Reiter + Favoriten, Hook im Titel), Platzhalter füllen sich aus dem Transkript, Speicherfehler bei mehreren Shorts behoben",
- "file": "https://raw.githubusercontent.com/Nouudj/capmap-updates/main/CapMap-Update-0.9.9.11.exe",
- "sha256": "c69d42aca23e8efc7feb84fb047d014b44ee09b76b3a715ecb750e1a41914218",
- "size": 85299048,
+ "version": "0.9.9.12",
+ "notes": "Alpha 0.99.12: Layout & Vorlage in einem Bereich mit leuchtenden Vorlagen-Symbolen, Layout-Kacheln verschwinden nicht mehr nach dem Scrollen",
+ "file": "https://raw.githubusercontent.com/Nouudj/capmap-updates/main/CapMap-Update-0.9.9.12.exe",
+ "sha256": "ced50542704e81963ddf7703ac808b6ab56dea9def918530d26749134e526ab2",
+ "size": 85304156,
  "mac": {
-  "file": "https://raw.githubusercontent.com/Nouudj/capmap-updates/main/CapMap-Mac-Update-0.9.9.11.zip",
-  "sha256": "68851c6e1ce61a99d6f41bceb1c4ff6b89c5c6533ba617d3bcb3b3655090e3c9",
-  "size": 87317148,
+  "file": "https://raw.githubusercontent.com/Nouudj/capmap-updates/main/CapMap-Mac-Update-0.9.9.12.zip",
+  "sha256": "7b19853ea3d854d5e582288648d9b4db87266029a571e0df7cab66315d1c1065",
+  "size": 87319408,
   "minApp": "0.8.1"
  },
  "delta": {
