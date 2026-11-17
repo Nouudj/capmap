@@ -1,13 +1,13 @@
 {
- "version": "0.9.9.14",
- "notes": "Alpha 0.99.14: Darstellung Schön/Flüssig, ruhigere Startseite und schnellere Fenster, Mac-Lizenz bleibt nach Neustart gespeichert",
- "file": "https://raw.githubusercontent.com/Nouudj/capmap-updates/main/CapMap-Update-0.9.9.14.exe",
- "sha256": "0621a900b4b5280c266225dbdb72f65b9dadddab6f0d2e5a7187a2b59f3267a4",
- "size": 85307990,
+ "version": "0.9.9.15",
+ "notes": "Stimme & Hintergrund trennen, eigenes Profilbild",
+ "file": "https://raw.githubusercontent.com/Nouudj/capmap-updates/main/CapMap-Update-0.9.9.15.exe",
+ "sha256": "321cb3af2c900cc396de1f5cace7302cd5356ba3925d9d245727387e4075968a",
+ "size": 85291861,
  "mac": {
-  "file": "https://raw.githubusercontent.com/Nouudj/capmap-updates/main/CapMap-Mac-Update-0.9.9.14.zip",
-  "sha256": "c8c562cf12ca36550ae852af52a3aab1967c8affa418febfe7f9cbeb74bc69ea",
-  "size": 87321783,
+  "file": "https://raw.githubusercontent.com/Nouudj/capmap-updates/main/CapMap-Mac-Update-0.9.9.15.zip",
+  "sha256": "68f8d56190b5cc54cc894ddc9113f80e4e73c6a0f7a0c9dcba0b1de8de089105",
+  "size": 87327698,
   "minApp": "0.8.1"
  },
  "delta": {
