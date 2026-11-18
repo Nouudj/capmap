@@ -1,13 +1,13 @@
 {
- "version": "0.9.9.15",
- "notes": "Stimme & Hintergrund trennen, eigenes Profilbild",
- "file": "https://raw.githubusercontent.com/Nouudj/capmap-updates/main/CapMap-Update-0.9.9.15.exe",
- "sha256": "321cb3af2c900cc396de1f5cace7302cd5356ba3925d9d245727387e4075968a",
- "size": 85291861,
+ "version": "0.9.9.16",
+ "notes": "Design Persönlich, eigenes Hintergrundbild, Profilbild groß ansehen",
+ "file": "https://raw.githubusercontent.com/Nouudj/capmap-updates/main/CapMap-Update-0.9.9.16.exe",
+ "sha256": "b62cbb4c61ca528b84e207dd86e3cb7a765a787e401689ca7af0d5404c8993da",
+ "size": 85316487,
  "mac": {
-  "file": "https://raw.githubusercontent.com/Nouudj/capmap-updates/main/CapMap-Mac-Update-0.9.9.15.zip",
-  "sha256": "68f8d56190b5cc54cc894ddc9113f80e4e73c6a0f7a0c9dcba0b1de8de089105",
-  "size": 87327698,
+  "file": "https://raw.githubusercontent.com/Nouudj/capmap-updates/main/CapMap-Mac-Update-0.9.9.16.zip",
+  "sha256": "49190a8d2ac49c4e8e18da63c53c2182638f481117abde17e6f7ca71fbe4e1bd",
+  "size": 87334595,
   "minApp": "0.8.1"
  },
  "delta": {
